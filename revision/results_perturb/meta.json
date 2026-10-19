@@ -1,0 +1,385 @@
+{
+ "n_eval_rows": 22599,
+ "longest_input": 405,
+ "test_samples_with_a_variant": 275,
+ "variant_pairs": {
+  "certopensystemstorea": [
+   "certopensystemstorew"
+  ],
+  "certopensystemstorew": [
+   "certopensystemstorea"
+  ],
+  "cocreateinstance": [
+   "cocreateinstanceex"
+  ],
+  "cocreateinstanceex": [
+   "cocreateinstance"
+  ],
+  "copyfilea": [
+   "copyfileexw",
+   "copyfilew"
+  ],
+  "copyfileexw": [
+   "copyfilea",
+   "copyfilew"
+  ],
+  "copyfilew": [
+   "copyfilea",
+   "copyfileexw"
+  ],
+  "createdirectoryexw": [
+   "createdirectoryw"
+  ],
+  "createdirectoryw": [
+   "createdirectoryexw"
+  ],
+  "createremotethread": [
+   "createremotethreadex"
+  ],
+  "createremotethreadex": [
+   "createremotethread"
+  ],
+  "createservicea": [
+   "createservicew"
+  ],
+  "createservicew": [
+   "createservicea"
+  ],
+  "cryptacquirecontexta": [
+   "cryptacquirecontextw"
+  ],
+  "cryptacquirecontextw": [
+   "cryptacquirecontexta"
+  ],
+  "deleteurlcacheentrya": [
+   "deleteurlcacheentryw"
+  ],
+  "deleteurlcacheentryw": [
+   "deleteurlcacheentrya"
+  ],
+  "dnsquery_a": [
+   "dnsquery_w"
+  ],
+  "dnsquery_w": [
+   "dnsquery_a"
+  ],
+  "drawtextexa": [
+   "drawtextexw"
+  ],
+  "drawtextexw": [
+   "drawtextexa"
+  ],
+  "enumservicesstatusa": [
+   "enumservicesstatusw"
+  ],
+  "enumservicesstatusw": [
+   "enumservicesstatusa"
+  ],
+  "findfirstfileexa": [
+   "findfirstfileexw"
+  ],
+  "findfirstfileexw": [
+   "findfirstfileexa"
+  ],
+  "findresourcea": [
+   "findresourceexa",
+   "findresourceexw",
+   "findresourcew"
+  ],
+  "findresourceexa": [
+   "findresourcea",
+   "findresourceexw",
+   "findresourcew"
+  ],
+  "findresourceexw": [
+   "findresourcea",
+   "findresourceexa",
+   "findresourcew"
+  ],
+  "findresourcew": [
+   "findresourcea",
+   "findresourceexa",
+   "findresourceexw"
+  ],
+  "findwindowa": [
+   "findwindowexa",
+   "findwindowexw",
+   "findwindoww"
+  ],
+  "findwindowexa": [
+   "findwindowa",
+   "findwindowexw",
+   "findwindoww"
+  ],
+  "findwindowexw": [
+   "findwindowa",
+   "findwindowexa",
+   "findwindoww"
+  ],
+  "findwindoww": [
+   "findwindowa",
+   "findwindowexa",
+   "findwindowexw"
+  ],
+  "getcomputernamea": [
+   "getcomputernamew"
+  ],
+  "getcomputernamew": [
+   "getcomputernamea"
+  ],
+  "getdiskfreespaceexw": [
+   "getdiskfreespacew"
+  ],
+  "getdiskfreespacew": [
+   "getdiskfreespaceexw"
+  ],
+  "getfileattributesexw": [
+   "getfileattributesw"
+  ],
+  "getfileattributesw": [
+   "getfileattributesexw"
+  ],
+  "getfileinformationbyhandle": [
+   "getfileinformationbyhandleex"
+  ],
+  "getfileinformationbyhandleex": [
+   "getfileinformationbyhandle"
+  ],
+  "getfilesize": [
+   "getfilesizeex"
+  ],
+  "getfilesizeex": [
+   "getfilesize"
+  ],
+  "getfileversioninfoexw": [
+   "getfileversioninfow"
+  ],
+  "getfileversioninfosizeexw": [
+   "getfileversioninfosizew"
+  ],
+  "getfileversioninfosizew": [
+   "getfileversioninfosizeexw"
+  ],
+  "getfileversioninfow": [
+   "getfileversioninfoexw"
+  ],
+  "getsystemdirectorya": [
+   "getsystemdirectoryw"
+  ],
+  "getsystemdirectoryw": [
+   "getsystemdirectorya"
+  ],
+  "getsystemwindowsdirectorya": [
+   "getsystemwindowsdirectoryw"
+  ],
+  "getsystemwindowsdirectoryw": [
+   "getsystemwindowsdirectorya"
+  ],
+  "getusernamea": [
+   "getusernameexa",
+   "getusernameexw",
+   "getusernamew"
+  ],
+  "getusernameexa": [
+   "getusernamea",
+   "getusernameexw",
+   "getusernamew"
+  ],
+  "getusernameexw": [
+   "getusernamea",
+   "getusernameexa",
+   "getusernamew"
+  ],
+  "getusernamew": [
+   "getusernamea",
+   "getusernameexa",
+   "getusernameexw"
+  ],
+  "globalmemorystatus": [
+   "globalmemorystatusex"
+  ],
+  "globalmemorystatusex": [
+   "globalmemorystatus"
+  ],
+  "httpopenrequesta": [
+   "httpopenrequestw"
+  ],
+  "httpopenrequestw": [
+   "httpopenrequesta"
+  ],
+  "httpsendrequesta": [
+   "httpsendrequestw"
+  ],
+  "httpsendrequestw": [
+   "httpsendrequesta"
+  ],
+  "internetconnecta": [
+   "internetconnectw"
+  ],
+  "internetconnectw": [
+   "internetconnecta"
+  ],
+  "internetcrackurla": [
+   "internetcrackurlw"
+  ],
+  "internetcrackurlw": [
+   "internetcrackurla"
+  ],
+  "internetgetconnectedstate": [
+   "internetgetconnectedstateexa",
+   "internetgetconnectedstateexw"
+  ],
+  "internetgetconnectedstateexa": [
+   "internetgetconnectedstate",
+   "internetgetconnectedstateexw"
+  ],
+  "internetgetconnectedstateexw": [
+   "internetgetconnectedstate",
+   "internetgetconnectedstateexa"
+  ],
+  "internetopena": [
+   "internetopenw"
+  ],
+  "internetopenurla": [
+   "internetopenurlw"
+  ],
+  "internetopenurlw": [
+   "internetopenurla"
+  ],
+  "internetopenw": [
+   "internetopena"
+  ],
+  "loadstringa": [
+   "loadstringw"
+  ],
+  "loadstringw": [
+   "loadstringa"
+  ],
+  "messageboxtimeouta": [
+   "messageboxtimeoutw"
+  ],
+  "messageboxtimeoutw": [
+   "messageboxtimeouta"
+  ],
+  "ntopenkey": [
+   "ntopenkeyex"
+  ],
+  "ntopenkeyex": [
+   "ntopenkey"
+  ],
+  "openscmanagera": [
+   "openscmanagerw"
+  ],
+  "openscmanagerw": [
+   "openscmanagera"
+  ],
+  "openservicea": [
+   "openservicew"
+  ],
+  "openservicew": [
+   "openservicea"
+  ],
+  "regcreatekeyexa": [
+   "regcreatekeyexw"
+  ],
+  "regcreatekeyexw": [
+   "regcreatekeyexa"
+  ],
+  "regdeletekeya": [
+   "regdeletekeyw"
+  ],
+  "regdeletekeyw": [
+   "regdeletekeya"
+  ],
+  "regdeletevaluea": [
+   "regdeletevaluew"
+  ],
+  "regdeletevaluew": [
+   "regdeletevaluea"
+  ],
+  "regenumkeyexa": [
+   "regenumkeyexw",
+   "regenumkeyw"
+  ],
+  "regenumkeyexw": [
+   "regenumkeyexa",
+   "regenumkeyw"
+  ],
+  "regenumkeyw": [
+   "regenumkeyexa",
+   "regenumkeyexw"
+  ],
+  "regenumvaluea": [
+   "regenumvaluew"
+  ],
+  "regenumvaluew": [
+   "regenumvaluea"
+  ],
+  "regopenkeyexa": [
+   "regopenkeyexw"
+  ],
+  "regopenkeyexw": [
+   "regopenkeyexa"
+  ],
+  "regqueryinfokeya": [
+   "regqueryinfokeyw"
+  ],
+  "regqueryinfokeyw": [
+   "regqueryinfokeya"
+  ],
+  "regqueryvalueexa": [
+   "regqueryvalueexw"
+  ],
+  "regqueryvalueexw": [
+   "regqueryvalueexa"
+  ],
+  "regsetvalueexa": [
+   "regsetvalueexw"
+  ],
+  "regsetvalueexw": [
+   "regsetvalueexa"
+  ],
+  "removedirectorya": [
+   "removedirectoryw"
+  ],
+  "removedirectoryw": [
+   "removedirectorya"
+  ],
+  "sendnotifymessagea": [
+   "sendnotifymessagew"
+  ],
+  "sendnotifymessagew": [
+   "sendnotifymessagea"
+  ],
+  "setfilepointer": [
+   "setfilepointerex"
+  ],
+  "setfilepointerex": [
+   "setfilepointer"
+  ],
+  "setwindowshookexa": [
+   "setwindowshookexw"
+  ],
+  "setwindowshookexw": [
+   "setwindowshookexa"
+  ],
+  "startservicea": [
+   "startservicew"
+  ],
+  "startservicew": [
+   "startservicea"
+  ],
+  "writeconsolea": [
+   "writeconsolew"
+  ],
+  "writeconsolew": [
+   "writeconsolea"
+  ],
+  "wsasocketa": [
+   "wsasocketw"
+  ],
+  "wsasocketw": [
+   "wsasocketa"
+  ]
+ }
+}

@@ -1,0 +1,1783 @@
+model,seed,perturbation,level,draw,recall_malware,fpr_benign
+BiLSTM (unigrams),7,benign preamble (distinct calls),10.0,1,0.719745,0.008197
+BiLSTM (unigrams),7,benign preamble (distinct calls),10.0,2,0.713376,0.008197
+BiLSTM (unigrams),7,benign preamble (distinct calls),10.0,3,0.745223,0.008197
+BiLSTM (unigrams),7,benign preamble (distinct calls),10.0,4,0.751592,0.008197
+BiLSTM (unigrams),7,benign preamble (distinct calls),10.0,5,0.66879,0.0
+BiLSTM (unigrams),42,benign preamble (distinct calls),10.0,1,0.853503,0.02459
+BiLSTM (unigrams),42,benign preamble (distinct calls),10.0,2,0.859873,0.032787
+BiLSTM (unigrams),42,benign preamble (distinct calls),10.0,3,0.828025,0.02459
+BiLSTM (unigrams),42,benign preamble (distinct calls),10.0,4,0.866242,0.02459
+BiLSTM (unigrams),42,benign preamble (distinct calls),10.0,5,0.853503,0.016393
+BiLSTM (unigrams),72,benign preamble (distinct calls),10.0,1,0.77707,0.0
+BiLSTM (unigrams),72,benign preamble (distinct calls),10.0,2,0.757962,0.0
+BiLSTM (unigrams),72,benign preamble (distinct calls),10.0,3,0.77707,0.0
+BiLSTM (unigrams),72,benign preamble (distinct calls),10.0,4,0.783439,0.0
+BiLSTM (unigrams),72,benign preamble (distinct calls),10.0,5,0.751592,0.0
+BiLSTM (unigrams),123,benign preamble (distinct calls),10.0,1,0.955414,0.008197
+BiLSTM (unigrams),123,benign preamble (distinct calls),10.0,2,0.974522,0.02459
+BiLSTM (unigrams),123,benign preamble (distinct calls),10.0,3,0.955414,0.040984
+BiLSTM (unigrams),123,benign preamble (distinct calls),10.0,4,0.961783,0.02459
+BiLSTM (unigrams),123,benign preamble (distinct calls),10.0,5,0.968153,0.040984
+BiLSTM (unigrams),2024,benign preamble (distinct calls),10.0,1,0.923567,0.016393
+BiLSTM (unigrams),2024,benign preamble (distinct calls),10.0,2,0.936306,0.032787
+BiLSTM (unigrams),2024,benign preamble (distinct calls),10.0,3,0.917197,0.02459
+BiLSTM (unigrams),2024,benign preamble (distinct calls),10.0,4,0.904459,0.008197
+BiLSTM (unigrams),2024,benign preamble (distinct calls),10.0,5,0.917197,0.008197
+BiLSTM (unigrams),7,benign preamble (distinct calls),25.0,1,0.853503,0.008197
+BiLSTM (unigrams),7,benign preamble (distinct calls),25.0,2,0.898089,0.008197
+BiLSTM (unigrams),7,benign preamble (distinct calls),25.0,3,0.821656,0.02459
+BiLSTM (unigrams),7,benign preamble (distinct calls),25.0,4,0.866242,0.016393
+BiLSTM (unigrams),7,benign preamble (distinct calls),25.0,5,0.866242,0.008197
+BiLSTM (unigrams),42,benign preamble (distinct calls),25.0,1,0.872611,0.02459
+BiLSTM (unigrams),42,benign preamble (distinct calls),25.0,2,0.834395,0.02459
+BiLSTM (unigrams),42,benign preamble (distinct calls),25.0,3,0.808917,0.02459
+BiLSTM (unigrams),42,benign preamble (distinct calls),25.0,4,0.808917,0.016393
+BiLSTM (unigrams),42,benign preamble (distinct calls),25.0,5,0.821656,0.008197
+BiLSTM (unigrams),72,benign preamble (distinct calls),25.0,1,0.681529,0.0
+BiLSTM (unigrams),72,benign preamble (distinct calls),25.0,2,0.681529,0.008197
+BiLSTM (unigrams),72,benign preamble (distinct calls),25.0,3,0.643312,0.008197
+BiLSTM (unigrams),72,benign preamble (distinct calls),25.0,4,0.66242,0.0
+BiLSTM (unigrams),72,benign preamble (distinct calls),25.0,5,0.687898,0.0
+BiLSTM (unigrams),123,benign preamble (distinct calls),25.0,1,0.923567,0.040984
+BiLSTM (unigrams),123,benign preamble (distinct calls),25.0,2,0.898089,0.040984
+BiLSTM (unigrams),123,benign preamble (distinct calls),25.0,3,0.917197,0.032787
+BiLSTM (unigrams),123,benign preamble (distinct calls),25.0,4,0.89172,0.04918
+BiLSTM (unigrams),123,benign preamble (distinct calls),25.0,5,0.923567,0.040984
+BiLSTM (unigrams),2024,benign preamble (distinct calls),25.0,1,0.929936,0.02459
+BiLSTM (unigrams),2024,benign preamble (distinct calls),25.0,2,0.872611,0.008197
+BiLSTM (unigrams),2024,benign preamble (distinct calls),25.0,3,0.89172,0.02459
+BiLSTM (unigrams),2024,benign preamble (distinct calls),25.0,4,0.853503,0.016393
+BiLSTM (unigrams),2024,benign preamble (distinct calls),25.0,5,0.904459,0.016393
+BiLSTM (unigrams),7,benign preamble (distinct calls),50.0,1,0.796178,0.057377
+BiLSTM (unigrams),7,benign preamble (distinct calls),50.0,2,0.783439,0.04918
+BiLSTM (unigrams),7,benign preamble (distinct calls),50.0,3,0.789809,0.07377
+BiLSTM (unigrams),7,benign preamble (distinct calls),50.0,4,0.757962,0.04918
+BiLSTM (unigrams),7,benign preamble (distinct calls),50.0,5,0.802548,0.065574
+BiLSTM (unigrams),42,benign preamble (distinct calls),50.0,1,0.598726,0.0
+BiLSTM (unigrams),42,benign preamble (distinct calls),50.0,2,0.585987,0.016393
+BiLSTM (unigrams),42,benign preamble (distinct calls),50.0,3,0.66242,0.008197
+BiLSTM (unigrams),42,benign preamble (distinct calls),50.0,4,0.66879,0.0
+BiLSTM (unigrams),42,benign preamble (distinct calls),50.0,5,0.541401,0.032787
+BiLSTM (unigrams),72,benign preamble (distinct calls),50.0,1,0.363057,0.0
+BiLSTM (unigrams),72,benign preamble (distinct calls),50.0,2,0.312102,0.008197
+BiLSTM (unigrams),72,benign preamble (distinct calls),50.0,3,0.33758,0.008197
+BiLSTM (unigrams),72,benign preamble (distinct calls),50.0,4,0.452229,0.008197
+BiLSTM (unigrams),72,benign preamble (distinct calls),50.0,5,0.369427,0.008197
+BiLSTM (unigrams),123,benign preamble (distinct calls),50.0,1,0.585987,0.016393
+BiLSTM (unigrams),123,benign preamble (distinct calls),50.0,2,0.547771,0.02459
+BiLSTM (unigrams),123,benign preamble (distinct calls),50.0,3,0.56051,0.02459
+BiLSTM (unigrams),123,benign preamble (distinct calls),50.0,4,0.592357,0.02459
+BiLSTM (unigrams),123,benign preamble (distinct calls),50.0,5,0.509554,0.040984
+BiLSTM (unigrams),2024,benign preamble (distinct calls),50.0,1,0.764331,0.008197
+BiLSTM (unigrams),2024,benign preamble (distinct calls),50.0,2,0.808917,0.008197
+BiLSTM (unigrams),2024,benign preamble (distinct calls),50.0,3,0.783439,0.040984
+BiLSTM (unigrams),2024,benign preamble (distinct calls),50.0,4,0.834395,0.04918
+BiLSTM (unigrams),2024,benign preamble (distinct calls),50.0,5,0.77707,0.032787
+BiLSTM (unigrams),7,benign preamble (distinct calls),100.0,1,0.719745,0.155738
+BiLSTM (unigrams),7,benign preamble (distinct calls),100.0,2,0.656051,0.147541
+BiLSTM (unigrams),7,benign preamble (distinct calls),100.0,3,0.649682,0.180328
+BiLSTM (unigrams),7,benign preamble (distinct calls),100.0,4,0.630573,0.122951
+BiLSTM (unigrams),7,benign preamble (distinct calls),100.0,5,0.656051,0.147541
+BiLSTM (unigrams),42,benign preamble (distinct calls),100.0,1,0.299363,0.008197
+BiLSTM (unigrams),42,benign preamble (distinct calls),100.0,2,0.261146,0.016393
+BiLSTM (unigrams),42,benign preamble (distinct calls),100.0,3,0.267516,0.016393
+BiLSTM (unigrams),42,benign preamble (distinct calls),100.0,4,0.210191,0.008197
+BiLSTM (unigrams),42,benign preamble (distinct calls),100.0,5,0.254777,0.02459
+BiLSTM (unigrams),72,benign preamble (distinct calls),100.0,1,0.031847,0.008197
+BiLSTM (unigrams),72,benign preamble (distinct calls),100.0,2,0.057325,0.016393
+BiLSTM (unigrams),72,benign preamble (distinct calls),100.0,3,0.044586,0.008197
+BiLSTM (unigrams),72,benign preamble (distinct calls),100.0,4,0.050955,0.0
+BiLSTM (unigrams),72,benign preamble (distinct calls),100.0,5,0.050955,0.008197
+BiLSTM (unigrams),123,benign preamble (distinct calls),100.0,1,0.261146,0.057377
+BiLSTM (unigrams),123,benign preamble (distinct calls),100.0,2,0.318471,0.07377
+BiLSTM (unigrams),123,benign preamble (distinct calls),100.0,3,0.267516,0.04918
+BiLSTM (unigrams),123,benign preamble (distinct calls),100.0,4,0.33121,0.04918
+BiLSTM (unigrams),123,benign preamble (distinct calls),100.0,5,0.280255,0.040984
+BiLSTM (unigrams),2024,benign preamble (distinct calls),100.0,1,0.458599,0.106557
+BiLSTM (unigrams),2024,benign preamble (distinct calls),100.0,2,0.394904,0.090164
+BiLSTM (unigrams),2024,benign preamble (distinct calls),100.0,3,0.44586,0.090164
+BiLSTM (unigrams),2024,benign preamble (distinct calls),100.0,4,0.420382,0.07377
+BiLSTM (unigrams),2024,benign preamble (distinct calls),100.0,5,0.566879,0.081967
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.1,1,0.955414,0.032787
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.1,2,0.955414,0.016393
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.1,3,0.955414,0.016393
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.1,4,0.949045,0.032787
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.1,5,0.955414,0.02459
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.1,1,0.89172,0.032787
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.1,2,0.866242,0.02459
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.1,3,0.88535,0.032787
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.1,4,0.910828,0.02459
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.1,5,0.88535,0.032787
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.1,1,0.968153,0.008197
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.1,2,0.942675,0.008197
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.1,3,0.961783,0.016393
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.1,4,0.949045,0.016393
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.1,5,0.942675,0.016393
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.1,1,0.968153,0.02459
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.1,2,0.968153,0.032787
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.1,3,0.968153,0.032787
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.1,4,0.961783,0.057377
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.1,5,0.968153,0.032787
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.1,1,0.955414,0.032787
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.1,2,0.968153,0.02459
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.1,3,0.961783,0.02459
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.1,4,0.961783,0.02459
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.1,5,0.955414,0.032787
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.25,1,0.923567,0.02459
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.25,2,0.917197,0.016393
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.25,3,0.936306,0.016393
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.25,4,0.88535,0.016393
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.25,5,0.942675,0.040984
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.25,1,0.853503,0.032787
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.25,2,0.847134,0.057377
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.25,3,0.866242,0.016393
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.25,4,0.821656,0.02459
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.25,5,0.89172,0.02459
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.25,1,0.904459,0.0
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.25,2,0.872611,0.0
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.25,3,0.859873,0.008197
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.25,4,0.878981,0.02459
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.25,5,0.878981,0.016393
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.25,1,0.936306,0.065574
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.25,2,0.923567,0.057377
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.25,3,0.961783,0.016393
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.25,4,0.936306,0.032787
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.25,5,0.929936,0.040984
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.25,1,0.949045,0.040984
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.25,2,0.929936,0.032787
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.25,3,0.923567,0.016393
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.25,4,0.859873,0.040984
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.25,5,0.88535,0.016393
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.5,1,0.840764,0.008197
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.5,2,0.88535,0.04918
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.5,3,0.866242,0.016393
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.5,4,0.828025,0.016393
+BiLSTM (unigrams),7,insert benign filler (fraction of length),0.5,5,0.802548,0.057377
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.5,1,0.738854,0.016393
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.5,2,0.789809,0.008197
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.5,3,0.828025,0.032787
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.5,4,0.789809,0.016393
+BiLSTM (unigrams),42,insert benign filler (fraction of length),0.5,5,0.77707,0.008197
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.5,1,0.726115,0.008197
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.5,2,0.828025,0.016393
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.5,3,0.828025,0.016393
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.5,4,0.802548,0.016393
+BiLSTM (unigrams),72,insert benign filler (fraction of length),0.5,5,0.738854,0.008197
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.5,1,0.872611,0.032787
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.5,2,0.88535,0.057377
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.5,3,0.904459,0.04918
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.5,4,0.88535,0.032787
+BiLSTM (unigrams),123,insert benign filler (fraction of length),0.5,5,0.866242,0.057377
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.5,1,0.802548,0.04918
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.5,2,0.840764,0.02459
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.5,3,0.859873,0.02459
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.5,4,0.847134,0.040984
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),0.5,5,0.783439,0.032787
+BiLSTM (unigrams),7,insert benign filler (fraction of length),1.0,1,0.726115,0.04918
+BiLSTM (unigrams),7,insert benign filler (fraction of length),1.0,2,0.757962,0.07377
+BiLSTM (unigrams),7,insert benign filler (fraction of length),1.0,3,0.764331,0.032787
+BiLSTM (unigrams),7,insert benign filler (fraction of length),1.0,4,0.751592,0.040984
+BiLSTM (unigrams),7,insert benign filler (fraction of length),1.0,5,0.802548,0.040984
+BiLSTM (unigrams),42,insert benign filler (fraction of length),1.0,1,0.656051,0.016393
+BiLSTM (unigrams),42,insert benign filler (fraction of length),1.0,2,0.694268,0.032787
+BiLSTM (unigrams),42,insert benign filler (fraction of length),1.0,3,0.751592,0.02459
+BiLSTM (unigrams),42,insert benign filler (fraction of length),1.0,4,0.726115,0.02459
+BiLSTM (unigrams),42,insert benign filler (fraction of length),1.0,5,0.713376,0.040984
+BiLSTM (unigrams),72,insert benign filler (fraction of length),1.0,1,0.541401,0.0
+BiLSTM (unigrams),72,insert benign filler (fraction of length),1.0,2,0.566879,0.016393
+BiLSTM (unigrams),72,insert benign filler (fraction of length),1.0,3,0.624204,0.02459
+BiLSTM (unigrams),72,insert benign filler (fraction of length),1.0,4,0.528662,0.032787
+BiLSTM (unigrams),72,insert benign filler (fraction of length),1.0,5,0.617834,0.016393
+BiLSTM (unigrams),123,insert benign filler (fraction of length),1.0,1,0.821656,0.07377
+BiLSTM (unigrams),123,insert benign filler (fraction of length),1.0,2,0.815287,0.081967
+BiLSTM (unigrams),123,insert benign filler (fraction of length),1.0,3,0.847134,0.065574
+BiLSTM (unigrams),123,insert benign filler (fraction of length),1.0,4,0.783439,0.07377
+BiLSTM (unigrams),123,insert benign filler (fraction of length),1.0,5,0.859873,0.032787
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),1.0,1,0.732484,0.081967
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),1.0,2,0.656051,0.07377
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),1.0,3,0.764331,0.040984
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),1.0,4,0.764331,0.057377
+BiLSTM (unigrams),2024,insert benign filler (fraction of length),1.0,5,0.719745,0.032787
+BiLSTM (unigrams),7,none,0.0,1,0.955414,0.032787
+BiLSTM (unigrams),42,none,0.0,1,0.847134,0.032787
+BiLSTM (unigrams),72,none,0.0,1,0.968153,0.008197
+BiLSTM (unigrams),123,none,0.0,1,0.974522,0.02459
+BiLSTM (unigrams),2024,none,0.0,1,0.974522,0.032787
+BiLSTM (unigrams),7,repeat calls and segments (probability),0.5,1,0.955414,0.032787
+BiLSTM (unigrams),7,repeat calls and segments (probability),0.5,2,0.955414,0.032787
+BiLSTM (unigrams),7,repeat calls and segments (probability),0.5,3,0.955414,0.032787
+BiLSTM (unigrams),7,repeat calls and segments (probability),0.5,4,0.955414,0.032787
+BiLSTM (unigrams),7,repeat calls and segments (probability),0.5,5,0.955414,0.032787
+BiLSTM (unigrams),42,repeat calls and segments (probability),0.5,1,0.847134,0.032787
+BiLSTM (unigrams),42,repeat calls and segments (probability),0.5,2,0.847134,0.032787
+BiLSTM (unigrams),42,repeat calls and segments (probability),0.5,3,0.847134,0.032787
+BiLSTM (unigrams),42,repeat calls and segments (probability),0.5,4,0.847134,0.032787
+BiLSTM (unigrams),42,repeat calls and segments (probability),0.5,5,0.847134,0.032787
+BiLSTM (unigrams),72,repeat calls and segments (probability),0.5,1,0.968153,0.008197
+BiLSTM (unigrams),72,repeat calls and segments (probability),0.5,2,0.968153,0.008197
+BiLSTM (unigrams),72,repeat calls and segments (probability),0.5,3,0.968153,0.008197
+BiLSTM (unigrams),72,repeat calls and segments (probability),0.5,4,0.968153,0.008197
+BiLSTM (unigrams),72,repeat calls and segments (probability),0.5,5,0.968153,0.008197
+BiLSTM (unigrams),123,repeat calls and segments (probability),0.5,1,0.974522,0.02459
+BiLSTM (unigrams),123,repeat calls and segments (probability),0.5,2,0.974522,0.02459
+BiLSTM (unigrams),123,repeat calls and segments (probability),0.5,3,0.974522,0.02459
+BiLSTM (unigrams),123,repeat calls and segments (probability),0.5,4,0.974522,0.02459
+BiLSTM (unigrams),123,repeat calls and segments (probability),0.5,5,0.974522,0.02459
+BiLSTM (unigrams),2024,repeat calls and segments (probability),0.5,1,0.974522,0.032787
+BiLSTM (unigrams),2024,repeat calls and segments (probability),0.5,2,0.974522,0.032787
+BiLSTM (unigrams),2024,repeat calls and segments (probability),0.5,3,0.974522,0.032787
+BiLSTM (unigrams),2024,repeat calls and segments (probability),0.5,4,0.974522,0.032787
+BiLSTM (unigrams),2024,repeat calls and segments (probability),0.5,5,0.974522,0.032787
+BiLSTM (unigrams),7,substitute equivalent variant (probability),0.25,1,0.936306,0.032787
+BiLSTM (unigrams),7,substitute equivalent variant (probability),0.25,2,0.929936,0.040984
+BiLSTM (unigrams),7,substitute equivalent variant (probability),0.25,3,0.936306,0.040984
+BiLSTM (unigrams),7,substitute equivalent variant (probability),0.25,4,0.955414,0.02459
+BiLSTM (unigrams),7,substitute equivalent variant (probability),0.25,5,0.949045,0.02459
+BiLSTM (unigrams),42,substitute equivalent variant (probability),0.25,1,0.872611,0.032787
+BiLSTM (unigrams),42,substitute equivalent variant (probability),0.25,2,0.872611,0.016393
+BiLSTM (unigrams),42,substitute equivalent variant (probability),0.25,3,0.859873,0.040984
+BiLSTM (unigrams),42,substitute equivalent variant (probability),0.25,4,0.859873,0.032787
+BiLSTM (unigrams),42,substitute equivalent variant (probability),0.25,5,0.872611,0.032787
+BiLSTM (unigrams),72,substitute equivalent variant (probability),0.25,1,0.923567,0.016393
+BiLSTM (unigrams),72,substitute equivalent variant (probability),0.25,2,0.949045,0.016393
+BiLSTM (unigrams),72,substitute equivalent variant (probability),0.25,3,0.904459,0.032787
+BiLSTM (unigrams),72,substitute equivalent variant (probability),0.25,4,0.89172,0.016393
+BiLSTM (unigrams),72,substitute equivalent variant (probability),0.25,5,0.929936,0.008197
+BiLSTM (unigrams),123,substitute equivalent variant (probability),0.25,1,0.923567,0.02459
+BiLSTM (unigrams),123,substitute equivalent variant (probability),0.25,2,0.942675,0.065574
+BiLSTM (unigrams),123,substitute equivalent variant (probability),0.25,3,0.923567,0.057377
+BiLSTM (unigrams),123,substitute equivalent variant (probability),0.25,4,0.904459,0.040984
+BiLSTM (unigrams),123,substitute equivalent variant (probability),0.25,5,0.936306,0.040984
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),0.25,1,0.923567,0.032787
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),0.25,2,0.89172,0.040984
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),0.25,3,0.88535,0.02459
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),0.25,4,0.910828,0.02459
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),0.25,5,0.89172,0.02459
+BiLSTM (unigrams),7,substitute equivalent variant (probability),0.5,1,0.89172,0.032787
+BiLSTM (unigrams),7,substitute equivalent variant (probability),0.5,2,0.88535,0.040984
+BiLSTM (unigrams),7,substitute equivalent variant (probability),0.5,3,0.904459,0.02459
+BiLSTM (unigrams),7,substitute equivalent variant (probability),0.5,4,0.872611,0.04918
+BiLSTM (unigrams),7,substitute equivalent variant (probability),0.5,5,0.872611,0.04918
+BiLSTM (unigrams),42,substitute equivalent variant (probability),0.5,1,0.796178,0.032787
+BiLSTM (unigrams),42,substitute equivalent variant (probability),0.5,2,0.853503,0.032787
+BiLSTM (unigrams),42,substitute equivalent variant (probability),0.5,3,0.847134,0.040984
+BiLSTM (unigrams),42,substitute equivalent variant (probability),0.5,4,0.828025,0.032787
+BiLSTM (unigrams),42,substitute equivalent variant (probability),0.5,5,0.783439,0.040984
+BiLSTM (unigrams),72,substitute equivalent variant (probability),0.5,1,0.808917,0.032787
+BiLSTM (unigrams),72,substitute equivalent variant (probability),0.5,2,0.840764,0.016393
+BiLSTM (unigrams),72,substitute equivalent variant (probability),0.5,3,0.802548,0.02459
+BiLSTM (unigrams),72,substitute equivalent variant (probability),0.5,4,0.828025,0.008197
+BiLSTM (unigrams),72,substitute equivalent variant (probability),0.5,5,0.847134,0.02459
+BiLSTM (unigrams),123,substitute equivalent variant (probability),0.5,1,0.853503,0.090164
+BiLSTM (unigrams),123,substitute equivalent variant (probability),0.5,2,0.847134,0.065574
+BiLSTM (unigrams),123,substitute equivalent variant (probability),0.5,3,0.840764,0.081967
+BiLSTM (unigrams),123,substitute equivalent variant (probability),0.5,4,0.859873,0.040984
+BiLSTM (unigrams),123,substitute equivalent variant (probability),0.5,5,0.866242,0.04918
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),0.5,1,0.834395,0.032787
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),0.5,2,0.821656,0.02459
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),0.5,3,0.847134,0.057377
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),0.5,4,0.878981,0.032787
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),0.5,5,0.828025,0.032787
+BiLSTM (unigrams),7,substitute equivalent variant (probability),1.0,1,0.605096,0.04918
+BiLSTM (unigrams),7,substitute equivalent variant (probability),1.0,2,0.592357,0.04918
+BiLSTM (unigrams),7,substitute equivalent variant (probability),1.0,3,0.630573,0.040984
+BiLSTM (unigrams),7,substitute equivalent variant (probability),1.0,4,0.624204,0.057377
+BiLSTM (unigrams),7,substitute equivalent variant (probability),1.0,5,0.617834,0.057377
+BiLSTM (unigrams),42,substitute equivalent variant (probability),1.0,1,0.764331,0.065574
+BiLSTM (unigrams),42,substitute equivalent variant (probability),1.0,2,0.770701,0.04918
+BiLSTM (unigrams),42,substitute equivalent variant (probability),1.0,3,0.757962,0.040984
+BiLSTM (unigrams),42,substitute equivalent variant (probability),1.0,4,0.757962,0.04918
+BiLSTM (unigrams),42,substitute equivalent variant (probability),1.0,5,0.764331,0.040984
+BiLSTM (unigrams),72,substitute equivalent variant (probability),1.0,1,0.56051,0.04918
+BiLSTM (unigrams),72,substitute equivalent variant (probability),1.0,2,0.605096,0.057377
+BiLSTM (unigrams),72,substitute equivalent variant (probability),1.0,3,0.579618,0.040984
+BiLSTM (unigrams),72,substitute equivalent variant (probability),1.0,4,0.579618,0.04918
+BiLSTM (unigrams),72,substitute equivalent variant (probability),1.0,5,0.617834,0.04918
+BiLSTM (unigrams),123,substitute equivalent variant (probability),1.0,1,0.687898,0.081967
+BiLSTM (unigrams),123,substitute equivalent variant (probability),1.0,2,0.675159,0.098361
+BiLSTM (unigrams),123,substitute equivalent variant (probability),1.0,3,0.675159,0.090164
+BiLSTM (unigrams),123,substitute equivalent variant (probability),1.0,4,0.675159,0.090164
+BiLSTM (unigrams),123,substitute equivalent variant (probability),1.0,5,0.675159,0.098361
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),1.0,1,0.675159,0.040984
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),1.0,2,0.675159,0.032787
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),1.0,3,0.656051,0.032787
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),1.0,4,0.707006,0.040984
+BiLSTM (unigrams),2024,substitute equivalent variant (probability),1.0,5,0.726115,0.040984
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.05,1,0.955414,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.05,2,0.955414,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.05,3,0.955414,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.05,4,0.961783,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.05,5,0.961783,0.032787
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.05,1,0.866242,0.040984
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.05,2,0.866242,0.040984
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.05,3,0.872611,0.040984
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.05,4,0.866242,0.032787
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.05,5,0.872611,0.032787
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.05,1,0.961783,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.05,2,0.968153,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.05,3,0.968153,0.0
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.05,4,0.968153,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.05,5,0.968153,0.008197
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.05,1,0.974522,0.02459
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.05,2,0.974522,0.02459
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.05,3,0.968153,0.02459
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.05,4,0.974522,0.032787
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.05,5,0.974522,0.040984
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.05,1,0.974522,0.032787
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.05,2,0.974522,0.032787
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.05,3,0.974522,0.032787
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.05,4,0.974522,0.032787
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.05,5,0.974522,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.1,1,0.955414,0.02459
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.1,2,0.955414,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.1,3,0.955414,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.1,4,0.955414,0.02459
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.1,5,0.961783,0.02459
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.1,1,0.866242,0.032787
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.1,2,0.878981,0.040984
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.1,3,0.88535,0.04918
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.1,4,0.898089,0.032787
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.1,5,0.872611,0.040984
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.1,1,0.961783,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.1,2,0.961783,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.1,3,0.955414,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.1,4,0.968153,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.1,5,0.968153,0.016393
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.1,1,0.974522,0.040984
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.1,2,0.968153,0.040984
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.1,3,0.968153,0.032787
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.1,4,0.974522,0.040984
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.1,5,0.974522,0.040984
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.1,1,0.980892,0.032787
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.1,2,0.974522,0.032787
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.1,3,0.980892,0.02459
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.1,4,0.974522,0.032787
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.1,5,0.974522,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.2,1,0.961783,0.02459
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.2,2,0.961783,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.2,3,0.955414,0.016393
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.2,4,0.961783,0.02459
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.2,5,0.955414,0.02459
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.2,1,0.872611,0.040984
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.2,2,0.904459,0.04918
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.2,3,0.88535,0.040984
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.2,4,0.89172,0.032787
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.2,5,0.859873,0.04918
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.2,1,0.955414,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.2,2,0.961783,0.016393
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.2,3,0.949045,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.2,4,0.961783,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.2,5,0.949045,0.016393
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.2,1,0.974522,0.02459
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.2,2,0.968153,0.032787
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.2,3,0.974522,0.032787
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.2,4,0.974522,0.02459
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.2,5,0.974522,0.040984
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.2,1,0.955414,0.02459
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.2,2,0.968153,0.032787
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.2,3,0.968153,0.02459
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.2,4,0.968153,0.032787
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.2,5,0.974522,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.4,1,0.955414,0.02459
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.4,2,0.961783,0.02459
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.4,3,0.955414,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.4,4,0.961783,0.032787
+BiLSTM (unigrams),7,swap adjacent calls (probability),0.4,5,0.961783,0.032787
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.4,1,0.910828,0.04918
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.4,2,0.89172,0.040984
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.4,3,0.898089,0.04918
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.4,4,0.898089,0.040984
+BiLSTM (unigrams),42,swap adjacent calls (probability),0.4,5,0.872611,0.040984
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.4,1,0.955414,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.4,2,0.923567,0.008197
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.4,3,0.949045,0.016393
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.4,4,0.961783,0.02459
+BiLSTM (unigrams),72,swap adjacent calls (probability),0.4,5,0.955414,0.016393
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.4,1,0.974522,0.032787
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.4,2,0.974522,0.032787
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.4,3,0.974522,0.040984
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.4,4,0.974522,0.040984
+BiLSTM (unigrams),123,swap adjacent calls (probability),0.4,5,0.968153,0.032787
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.4,1,0.968153,0.02459
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.4,2,0.955414,0.032787
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.4,3,0.968153,0.02459
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.4,4,0.949045,0.02459
+BiLSTM (unigrams),2024,swap adjacent calls (probability),0.4,5,0.968153,0.040984
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),10.0,1,0.878981,0.016393
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),10.0,2,0.866242,0.008197
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),10.0,3,0.898089,0.008197
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),10.0,4,0.917197,0.008197
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),10.0,5,0.910828,0.008197
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),25.0,1,0.726115,0.0
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),25.0,2,0.726115,0.008197
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),25.0,3,0.726115,0.008197
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),25.0,4,0.726115,0.0
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),25.0,5,0.783439,0.016393
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),50.0,1,0.388535,0.008197
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),50.0,2,0.33121,0.0
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),50.0,3,0.33121,0.0
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),50.0,4,0.343949,0.0
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),50.0,5,0.382166,0.0
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),100.0,1,0.082803,0.0
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),100.0,2,0.076433,0.0
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),100.0,3,0.063694,0.008197
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),100.0,4,0.101911,0.0
+"LR, n-gram counts",deterministic,benign preamble (distinct calls),100.0,5,0.044586,0.0
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.1,1,0.974522,0.008197
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.1,2,0.968153,0.016393
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.1,3,0.968153,0.008197
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.1,4,0.968153,0.016393
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.1,5,0.968153,0.008197
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.25,1,0.968153,0.008197
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.25,2,0.974522,0.016393
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.25,3,0.968153,0.008197
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.25,4,0.955414,0.008197
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.25,5,0.955414,0.016393
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.5,1,0.955414,0.0
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.5,2,0.955414,0.008197
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.5,3,0.968153,0.008197
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.5,4,0.949045,0.008197
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),0.5,5,0.961783,0.0
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),1.0,1,0.866242,0.032787
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),1.0,2,0.866242,0.02459
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),1.0,3,0.904459,0.016393
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),1.0,4,0.904459,0.008197
+"LR, n-gram counts",deterministic,insert benign filler (fraction of length),1.0,5,0.904459,0.016393
+"LR, n-gram counts",deterministic,none,0.0,1,0.980892,0.02459
+"LR, n-gram counts",deterministic,repeat calls and segments (probability),0.5,1,0.980892,0.02459
+"LR, n-gram counts",deterministic,repeat calls and segments (probability),0.5,2,0.980892,0.02459
+"LR, n-gram counts",deterministic,repeat calls and segments (probability),0.5,3,0.980892,0.02459
+"LR, n-gram counts",deterministic,repeat calls and segments (probability),0.5,4,0.980892,0.02459
+"LR, n-gram counts",deterministic,repeat calls and segments (probability),0.5,5,0.980892,0.02459
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),0.25,1,0.942675,0.016393
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),0.25,2,0.961783,0.040984
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),0.25,3,0.949045,0.02459
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),0.25,4,0.955414,0.02459
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),0.25,5,0.955414,0.02459
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),0.5,1,0.904459,0.02459
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),0.5,2,0.898089,0.016393
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),0.5,3,0.923567,0.02459
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),0.5,4,0.942675,0.02459
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),0.5,5,0.923567,0.02459
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),1.0,1,0.757962,0.032787
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),1.0,2,0.751592,0.02459
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),1.0,3,0.757962,0.02459
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),1.0,4,0.751592,0.032787
+"LR, n-gram counts",deterministic,substitute equivalent variant (probability),1.0,5,0.751592,0.02459
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.05,1,0.980892,0.016393
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.05,2,0.968153,0.02459
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.05,3,0.974522,0.016393
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.05,4,0.980892,0.016393
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.05,5,0.961783,0.016393
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.1,1,0.974522,0.02459
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.1,2,0.968153,0.016393
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.1,3,0.974522,0.016393
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.1,4,0.974522,0.02459
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.1,5,0.974522,0.008197
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.2,1,0.968153,0.0
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.2,2,0.961783,0.008197
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.2,3,0.961783,0.016393
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.2,4,0.968153,0.0
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.2,5,0.968153,0.008197
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.4,1,0.968153,0.02459
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.4,2,0.968153,0.016393
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.4,3,0.968153,0.016393
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.4,4,0.968153,0.032787
+"LR, n-gram counts",deterministic,swap adjacent calls (probability),0.4,5,0.980892,0.02459
+"LR, unigram counts",deterministic,benign preamble (distinct calls),10.0,1,0.961783,0.02459
+"LR, unigram counts",deterministic,benign preamble (distinct calls),10.0,2,0.929936,0.040984
+"LR, unigram counts",deterministic,benign preamble (distinct calls),10.0,3,0.929936,0.02459
+"LR, unigram counts",deterministic,benign preamble (distinct calls),10.0,4,0.961783,0.02459
+"LR, unigram counts",deterministic,benign preamble (distinct calls),10.0,5,0.942675,0.016393
+"LR, unigram counts",deterministic,benign preamble (distinct calls),25.0,1,0.859873,0.0
+"LR, unigram counts",deterministic,benign preamble (distinct calls),25.0,2,0.828025,0.016393
+"LR, unigram counts",deterministic,benign preamble (distinct calls),25.0,3,0.840764,0.02459
+"LR, unigram counts",deterministic,benign preamble (distinct calls),25.0,4,0.796178,0.016393
+"LR, unigram counts",deterministic,benign preamble (distinct calls),25.0,5,0.847134,0.032787
+"LR, unigram counts",deterministic,benign preamble (distinct calls),50.0,1,0.573248,0.0
+"LR, unigram counts",deterministic,benign preamble (distinct calls),50.0,2,0.55414,0.016393
+"LR, unigram counts",deterministic,benign preamble (distinct calls),50.0,3,0.598726,0.008197
+"LR, unigram counts",deterministic,benign preamble (distinct calls),50.0,4,0.573248,0.016393
+"LR, unigram counts",deterministic,benign preamble (distinct calls),50.0,5,0.56051,0.0
+"LR, unigram counts",deterministic,benign preamble (distinct calls),100.0,1,0.267516,0.016393
+"LR, unigram counts",deterministic,benign preamble (distinct calls),100.0,2,0.248408,0.02459
+"LR, unigram counts",deterministic,benign preamble (distinct calls),100.0,3,0.318471,0.02459
+"LR, unigram counts",deterministic,benign preamble (distinct calls),100.0,4,0.267516,0.04918
+"LR, unigram counts",deterministic,benign preamble (distinct calls),100.0,5,0.299363,0.02459
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.1,1,0.980892,0.016393
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.1,2,0.968153,0.016393
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.1,3,0.974522,0.02459
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.1,4,0.968153,0.02459
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.1,5,0.980892,0.016393
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.25,1,0.968153,0.032787
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.25,2,0.968153,0.016393
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.25,3,0.961783,0.008197
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.25,4,0.949045,0.008197
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.25,5,0.961783,0.02459
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.5,1,0.917197,0.016393
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.5,2,0.942675,0.016393
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.5,3,0.898089,0.02459
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.5,4,0.88535,0.032787
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),0.5,5,0.89172,0.016393
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),1.0,1,0.757962,0.02459
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),1.0,2,0.783439,0.057377
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),1.0,3,0.808917,0.040984
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),1.0,4,0.847134,0.016393
+"LR, unigram counts",deterministic,insert benign filler (fraction of length),1.0,5,0.770701,0.02459
+"LR, unigram counts",deterministic,none,0.0,1,0.980892,0.02459
+"LR, unigram counts",deterministic,repeat calls and segments (probability),0.5,1,0.980892,0.02459
+"LR, unigram counts",deterministic,repeat calls and segments (probability),0.5,2,0.980892,0.02459
+"LR, unigram counts",deterministic,repeat calls and segments (probability),0.5,3,0.980892,0.02459
+"LR, unigram counts",deterministic,repeat calls and segments (probability),0.5,4,0.980892,0.02459
+"LR, unigram counts",deterministic,repeat calls and segments (probability),0.5,5,0.980892,0.02459
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),0.25,1,0.949045,0.016393
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),0.25,2,0.974522,0.016393
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),0.25,3,0.955414,0.040984
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),0.25,4,0.961783,0.02459
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),0.25,5,0.949045,0.02459
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),0.5,1,0.917197,0.02459
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),0.5,2,0.923567,0.032787
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),0.5,3,0.917197,0.032787
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),0.5,4,0.942675,0.016393
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),0.5,5,0.923567,0.032787
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),1.0,1,0.840764,0.008197
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),1.0,2,0.834395,0.016393
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),1.0,3,0.834395,0.016393
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),1.0,4,0.847134,0.016393
+"LR, unigram counts",deterministic,substitute equivalent variant (probability),1.0,5,0.840764,0.008197
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.05,1,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.05,2,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.05,3,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.05,4,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.05,5,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.1,1,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.1,2,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.1,3,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.1,4,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.1,5,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.2,1,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.2,2,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.2,3,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.2,4,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.2,5,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.4,1,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.4,2,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.4,3,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.4,4,0.980892,0.02459
+"LR, unigram counts",deterministic,swap adjacent calls (probability),0.4,5,0.980892,0.02459
+Uni,7,benign preamble (distinct calls),10.0,1,0.929936,0.02459
+Uni,7,benign preamble (distinct calls),10.0,2,0.929936,0.0
+Uni,7,benign preamble (distinct calls),10.0,3,0.942675,0.02459
+Uni,7,benign preamble (distinct calls),10.0,4,0.942675,0.016393
+Uni,7,benign preamble (distinct calls),10.0,5,0.923567,0.0
+Uni,42,benign preamble (distinct calls),10.0,1,0.872611,0.016393
+Uni,42,benign preamble (distinct calls),10.0,2,0.898089,0.0
+Uni,42,benign preamble (distinct calls),10.0,3,0.88535,0.008197
+Uni,42,benign preamble (distinct calls),10.0,4,0.910828,0.008197
+Uni,42,benign preamble (distinct calls),10.0,5,0.872611,0.0
+Uni,72,benign preamble (distinct calls),10.0,1,0.828025,0.0
+Uni,72,benign preamble (distinct calls),10.0,2,0.815287,0.0
+Uni,72,benign preamble (distinct calls),10.0,3,0.840764,0.016393
+Uni,72,benign preamble (distinct calls),10.0,4,0.808917,0.016393
+Uni,72,benign preamble (distinct calls),10.0,5,0.815287,0.0
+Uni,123,benign preamble (distinct calls),10.0,1,0.821656,0.02459
+Uni,123,benign preamble (distinct calls),10.0,2,0.821656,0.0
+Uni,123,benign preamble (distinct calls),10.0,3,0.821656,0.016393
+Uni,123,benign preamble (distinct calls),10.0,4,0.872611,0.016393
+Uni,123,benign preamble (distinct calls),10.0,5,0.815287,0.008197
+Uni,2024,benign preamble (distinct calls),10.0,1,0.955414,0.016393
+Uni,2024,benign preamble (distinct calls),10.0,2,0.949045,0.016393
+Uni,2024,benign preamble (distinct calls),10.0,3,0.949045,0.02459
+Uni,2024,benign preamble (distinct calls),10.0,4,0.955414,0.02459
+Uni,2024,benign preamble (distinct calls),10.0,5,0.961783,0.0
+Uni,7,benign preamble (distinct calls),25.0,1,0.828025,0.008197
+Uni,7,benign preamble (distinct calls),25.0,2,0.751592,0.032787
+Uni,7,benign preamble (distinct calls),25.0,3,0.796178,0.02459
+Uni,7,benign preamble (distinct calls),25.0,4,0.796178,0.016393
+Uni,7,benign preamble (distinct calls),25.0,5,0.789809,0.008197
+Uni,42,benign preamble (distinct calls),25.0,1,0.745223,0.008197
+Uni,42,benign preamble (distinct calls),25.0,2,0.687898,0.0
+Uni,42,benign preamble (distinct calls),25.0,3,0.700637,0.008197
+Uni,42,benign preamble (distinct calls),25.0,4,0.713376,0.008197
+Uni,42,benign preamble (distinct calls),25.0,5,0.751592,0.016393
+Uni,72,benign preamble (distinct calls),25.0,1,0.694268,0.016393
+Uni,72,benign preamble (distinct calls),25.0,2,0.675159,0.02459
+Uni,72,benign preamble (distinct calls),25.0,3,0.675159,0.008197
+Uni,72,benign preamble (distinct calls),25.0,4,0.694268,0.008197
+Uni,72,benign preamble (distinct calls),25.0,5,0.726115,0.008197
+Uni,123,benign preamble (distinct calls),25.0,1,0.707006,0.008197
+Uni,123,benign preamble (distinct calls),25.0,2,0.681529,0.0
+Uni,123,benign preamble (distinct calls),25.0,3,0.675159,0.016393
+Uni,123,benign preamble (distinct calls),25.0,4,0.713376,0.016393
+Uni,123,benign preamble (distinct calls),25.0,5,0.738854,0.008197
+Uni,2024,benign preamble (distinct calls),25.0,1,0.923567,0.02459
+Uni,2024,benign preamble (distinct calls),25.0,2,0.917197,0.032787
+Uni,2024,benign preamble (distinct calls),25.0,3,0.89172,0.02459
+Uni,2024,benign preamble (distinct calls),25.0,4,0.904459,0.0
+Uni,2024,benign preamble (distinct calls),25.0,5,0.929936,0.04918
+Uni,7,benign preamble (distinct calls),50.0,1,0.713376,0.008197
+Uni,7,benign preamble (distinct calls),50.0,2,0.649682,0.016393
+Uni,7,benign preamble (distinct calls),50.0,3,0.643312,0.02459
+Uni,7,benign preamble (distinct calls),50.0,4,0.656051,0.032787
+Uni,7,benign preamble (distinct calls),50.0,5,0.675159,0.02459
+Uni,42,benign preamble (distinct calls),50.0,1,0.496815,0.0
+Uni,42,benign preamble (distinct calls),50.0,2,0.43949,0.0
+Uni,42,benign preamble (distinct calls),50.0,3,0.515924,0.008197
+Uni,42,benign preamble (distinct calls),50.0,4,0.528662,0.008197
+Uni,42,benign preamble (distinct calls),50.0,5,0.503185,0.0
+Uni,72,benign preamble (distinct calls),50.0,1,0.675159,0.008197
+Uni,72,benign preamble (distinct calls),50.0,2,0.522293,0.016393
+Uni,72,benign preamble (distinct calls),50.0,3,0.656051,0.0
+Uni,72,benign preamble (distinct calls),50.0,4,0.617834,0.016393
+Uni,72,benign preamble (distinct calls),50.0,5,0.66242,0.0
+Uni,123,benign preamble (distinct calls),50.0,1,0.464968,0.016393
+Uni,123,benign preamble (distinct calls),50.0,2,0.420382,0.016393
+Uni,123,benign preamble (distinct calls),50.0,3,0.515924,0.0
+Uni,123,benign preamble (distinct calls),50.0,4,0.477707,0.032787
+Uni,123,benign preamble (distinct calls),50.0,5,0.490446,0.0
+Uni,2024,benign preamble (distinct calls),50.0,1,0.834395,0.02459
+Uni,2024,benign preamble (distinct calls),50.0,2,0.789809,0.032787
+Uni,2024,benign preamble (distinct calls),50.0,3,0.828025,0.040984
+Uni,2024,benign preamble (distinct calls),50.0,4,0.796178,0.02459
+Uni,2024,benign preamble (distinct calls),50.0,5,0.802548,0.04918
+Uni,7,benign preamble (distinct calls),100.0,1,0.382166,0.040984
+Uni,7,benign preamble (distinct calls),100.0,2,0.343949,0.057377
+Uni,7,benign preamble (distinct calls),100.0,3,0.356688,0.07377
+Uni,7,benign preamble (distinct calls),100.0,4,0.394904,0.098361
+Uni,7,benign preamble (distinct calls),100.0,5,0.350318,0.057377
+Uni,42,benign preamble (distinct calls),100.0,1,0.127389,0.0
+Uni,42,benign preamble (distinct calls),100.0,2,0.101911,0.02459
+Uni,42,benign preamble (distinct calls),100.0,3,0.140127,0.008197
+Uni,42,benign preamble (distinct calls),100.0,4,0.140127,0.016393
+Uni,42,benign preamble (distinct calls),100.0,5,0.082803,0.02459
+Uni,72,benign preamble (distinct calls),100.0,1,0.363057,0.016393
+Uni,72,benign preamble (distinct calls),100.0,2,0.350318,0.016393
+Uni,72,benign preamble (distinct calls),100.0,3,0.382166,0.02459
+Uni,72,benign preamble (distinct calls),100.0,4,0.407643,0.040984
+Uni,72,benign preamble (distinct calls),100.0,5,0.33758,0.040984
+Uni,123,benign preamble (distinct calls),100.0,1,0.33121,0.032787
+Uni,123,benign preamble (distinct calls),100.0,2,0.286624,0.008197
+Uni,123,benign preamble (distinct calls),100.0,3,0.261146,0.057377
+Uni,123,benign preamble (distinct calls),100.0,4,0.33121,0.02459
+Uni,123,benign preamble (distinct calls),100.0,5,0.267516,0.008197
+Uni,2024,benign preamble (distinct calls),100.0,1,0.382166,0.057377
+Uni,2024,benign preamble (distinct calls),100.0,2,0.350318,0.065574
+Uni,2024,benign preamble (distinct calls),100.0,3,0.375796,0.065574
+Uni,2024,benign preamble (distinct calls),100.0,4,0.375796,0.106557
+Uni,2024,benign preamble (distinct calls),100.0,5,0.343949,0.106557
+Uni,7,insert benign filler (fraction of length),0.1,1,0.968153,0.016393
+Uni,7,insert benign filler (fraction of length),0.1,2,0.974522,0.016393
+Uni,7,insert benign filler (fraction of length),0.1,3,0.968153,0.032787
+Uni,7,insert benign filler (fraction of length),0.1,4,0.955414,0.016393
+Uni,7,insert benign filler (fraction of length),0.1,5,0.961783,0.016393
+Uni,42,insert benign filler (fraction of length),0.1,1,0.949045,0.016393
+Uni,42,insert benign filler (fraction of length),0.1,2,0.942675,0.0
+Uni,42,insert benign filler (fraction of length),0.1,3,0.942675,0.008197
+Uni,42,insert benign filler (fraction of length),0.1,4,0.936306,0.016393
+Uni,42,insert benign filler (fraction of length),0.1,5,0.942675,0.008197
+Uni,72,insert benign filler (fraction of length),0.1,1,0.923567,0.008197
+Uni,72,insert benign filler (fraction of length),0.1,2,0.949045,0.0
+Uni,72,insert benign filler (fraction of length),0.1,3,0.949045,0.008197
+Uni,72,insert benign filler (fraction of length),0.1,4,0.929936,0.016393
+Uni,72,insert benign filler (fraction of length),0.1,5,0.936306,0.008197
+Uni,123,insert benign filler (fraction of length),0.1,1,0.910828,0.016393
+Uni,123,insert benign filler (fraction of length),0.1,2,0.929936,0.008197
+Uni,123,insert benign filler (fraction of length),0.1,3,0.942675,0.008197
+Uni,123,insert benign filler (fraction of length),0.1,4,0.904459,0.008197
+Uni,123,insert benign filler (fraction of length),0.1,5,0.89172,0.0
+Uni,2024,insert benign filler (fraction of length),0.1,1,0.955414,0.032787
+Uni,2024,insert benign filler (fraction of length),0.1,2,0.968153,0.016393
+Uni,2024,insert benign filler (fraction of length),0.1,3,0.955414,0.040984
+Uni,2024,insert benign filler (fraction of length),0.1,4,0.968153,0.040984
+Uni,2024,insert benign filler (fraction of length),0.1,5,0.961783,0.032787
+Uni,7,insert benign filler (fraction of length),0.25,1,0.955414,0.016393
+Uni,7,insert benign filler (fraction of length),0.25,2,0.955414,0.040984
+Uni,7,insert benign filler (fraction of length),0.25,3,0.942675,0.008197
+Uni,7,insert benign filler (fraction of length),0.25,4,0.942675,0.016393
+Uni,7,insert benign filler (fraction of length),0.25,5,0.942675,0.02459
+Uni,42,insert benign filler (fraction of length),0.25,1,0.923567,0.008197
+Uni,42,insert benign filler (fraction of length),0.25,2,0.898089,0.0
+Uni,42,insert benign filler (fraction of length),0.25,3,0.910828,0.0
+Uni,42,insert benign filler (fraction of length),0.25,4,0.910828,0.016393
+Uni,42,insert benign filler (fraction of length),0.25,5,0.89172,0.008197
+Uni,72,insert benign filler (fraction of length),0.25,1,0.936306,0.0
+Uni,72,insert benign filler (fraction of length),0.25,2,0.866242,0.0
+Uni,72,insert benign filler (fraction of length),0.25,3,0.910828,0.008197
+Uni,72,insert benign filler (fraction of length),0.25,4,0.904459,0.032787
+Uni,72,insert benign filler (fraction of length),0.25,5,0.89172,0.02459
+Uni,123,insert benign filler (fraction of length),0.25,1,0.904459,0.02459
+Uni,123,insert benign filler (fraction of length),0.25,2,0.872611,0.016393
+Uni,123,insert benign filler (fraction of length),0.25,3,0.878981,0.0
+Uni,123,insert benign filler (fraction of length),0.25,4,0.866242,0.016393
+Uni,123,insert benign filler (fraction of length),0.25,5,0.878981,0.008197
+Uni,2024,insert benign filler (fraction of length),0.25,1,0.961783,0.02459
+Uni,2024,insert benign filler (fraction of length),0.25,2,0.961783,0.057377
+Uni,2024,insert benign filler (fraction of length),0.25,3,0.955414,0.02459
+Uni,2024,insert benign filler (fraction of length),0.25,4,0.949045,0.040984
+Uni,2024,insert benign filler (fraction of length),0.25,5,0.961783,0.040984
+Uni,7,insert benign filler (fraction of length),0.5,1,0.898089,0.02459
+Uni,7,insert benign filler (fraction of length),0.5,2,0.929936,0.008197
+Uni,7,insert benign filler (fraction of length),0.5,3,0.936306,0.04918
+Uni,7,insert benign filler (fraction of length),0.5,4,0.942675,0.04918
+Uni,7,insert benign filler (fraction of length),0.5,5,0.904459,0.016393
+Uni,42,insert benign filler (fraction of length),0.5,1,0.828025,0.016393
+Uni,42,insert benign filler (fraction of length),0.5,2,0.828025,0.0
+Uni,42,insert benign filler (fraction of length),0.5,3,0.872611,0.016393
+Uni,42,insert benign filler (fraction of length),0.5,4,0.847134,0.008197
+Uni,42,insert benign filler (fraction of length),0.5,5,0.789809,0.02459
+Uni,72,insert benign filler (fraction of length),0.5,1,0.808917,0.008197
+Uni,72,insert benign filler (fraction of length),0.5,2,0.859873,0.02459
+Uni,72,insert benign filler (fraction of length),0.5,3,0.847134,0.02459
+Uni,72,insert benign filler (fraction of length),0.5,4,0.840764,0.02459
+Uni,72,insert benign filler (fraction of length),0.5,5,0.789809,0.008197
+Uni,123,insert benign filler (fraction of length),0.5,1,0.796178,0.02459
+Uni,123,insert benign filler (fraction of length),0.5,2,0.77707,0.02459
+Uni,123,insert benign filler (fraction of length),0.5,3,0.77707,0.04918
+Uni,123,insert benign filler (fraction of length),0.5,4,0.783439,0.016393
+Uni,123,insert benign filler (fraction of length),0.5,5,0.770701,0.016393
+Uni,2024,insert benign filler (fraction of length),0.5,1,0.942675,0.008197
+Uni,2024,insert benign filler (fraction of length),0.5,2,0.949045,0.008197
+Uni,2024,insert benign filler (fraction of length),0.5,3,0.942675,0.040984
+Uni,2024,insert benign filler (fraction of length),0.5,4,0.942675,0.065574
+Uni,2024,insert benign filler (fraction of length),0.5,5,0.949045,0.040984
+Uni,7,insert benign filler (fraction of length),1.0,1,0.828025,0.04918
+Uni,7,insert benign filler (fraction of length),1.0,2,0.878981,0.040984
+Uni,7,insert benign filler (fraction of length),1.0,3,0.89172,0.065574
+Uni,7,insert benign filler (fraction of length),1.0,4,0.872611,0.057377
+Uni,7,insert benign filler (fraction of length),1.0,5,0.847134,0.040984
+Uni,42,insert benign filler (fraction of length),1.0,1,0.707006,0.016393
+Uni,42,insert benign filler (fraction of length),1.0,2,0.745223,0.008197
+Uni,42,insert benign filler (fraction of length),1.0,3,0.789809,0.04918
+Uni,42,insert benign filler (fraction of length),1.0,4,0.764331,0.02459
+Uni,42,insert benign filler (fraction of length),1.0,5,0.738854,0.016393
+Uni,72,insert benign filler (fraction of length),1.0,1,0.713376,0.040984
+Uni,72,insert benign filler (fraction of length),1.0,2,0.700637,0.008197
+Uni,72,insert benign filler (fraction of length),1.0,3,0.738854,0.04918
+Uni,72,insert benign filler (fraction of length),1.0,4,0.719745,0.016393
+Uni,72,insert benign filler (fraction of length),1.0,5,0.719745,0.008197
+Uni,123,insert benign filler (fraction of length),1.0,1,0.66242,0.040984
+Uni,123,insert benign filler (fraction of length),1.0,2,0.687898,0.02459
+Uni,123,insert benign filler (fraction of length),1.0,3,0.707006,0.04918
+Uni,123,insert benign filler (fraction of length),1.0,4,0.713376,0.040984
+Uni,123,insert benign filler (fraction of length),1.0,5,0.700637,0.04918
+Uni,2024,insert benign filler (fraction of length),1.0,1,0.910828,0.057377
+Uni,2024,insert benign filler (fraction of length),1.0,2,0.942675,0.04918
+Uni,2024,insert benign filler (fraction of length),1.0,3,0.917197,0.081967
+Uni,2024,insert benign filler (fraction of length),1.0,4,0.910828,0.040984
+Uni,2024,insert benign filler (fraction of length),1.0,5,0.917197,0.02459
+Uni,7,none,0.0,1,0.968153,0.016393
+Uni,42,none,0.0,1,0.955414,0.008197
+Uni,72,none,0.0,1,0.942675,0.008197
+Uni,123,none,0.0,1,0.961783,0.008197
+Uni,2024,none,0.0,1,0.980892,0.02459
+Uni,7,repeat calls and segments (probability),0.5,1,0.968153,0.016393
+Uni,7,repeat calls and segments (probability),0.5,2,0.968153,0.016393
+Uni,7,repeat calls and segments (probability),0.5,3,0.968153,0.016393
+Uni,7,repeat calls and segments (probability),0.5,4,0.968153,0.016393
+Uni,7,repeat calls and segments (probability),0.5,5,0.968153,0.016393
+Uni,42,repeat calls and segments (probability),0.5,1,0.955414,0.008197
+Uni,42,repeat calls and segments (probability),0.5,2,0.955414,0.008197
+Uni,42,repeat calls and segments (probability),0.5,3,0.955414,0.008197
+Uni,42,repeat calls and segments (probability),0.5,4,0.955414,0.008197
+Uni,42,repeat calls and segments (probability),0.5,5,0.955414,0.008197
+Uni,72,repeat calls and segments (probability),0.5,1,0.942675,0.008197
+Uni,72,repeat calls and segments (probability),0.5,2,0.942675,0.008197
+Uni,72,repeat calls and segments (probability),0.5,3,0.942675,0.008197
+Uni,72,repeat calls and segments (probability),0.5,4,0.942675,0.008197
+Uni,72,repeat calls and segments (probability),0.5,5,0.942675,0.008197
+Uni,123,repeat calls and segments (probability),0.5,1,0.961783,0.008197
+Uni,123,repeat calls and segments (probability),0.5,2,0.961783,0.008197
+Uni,123,repeat calls and segments (probability),0.5,3,0.961783,0.008197
+Uni,123,repeat calls and segments (probability),0.5,4,0.961783,0.008197
+Uni,123,repeat calls and segments (probability),0.5,5,0.961783,0.008197
+Uni,2024,repeat calls and segments (probability),0.5,1,0.980892,0.02459
+Uni,2024,repeat calls and segments (probability),0.5,2,0.980892,0.02459
+Uni,2024,repeat calls and segments (probability),0.5,3,0.980892,0.02459
+Uni,2024,repeat calls and segments (probability),0.5,4,0.980892,0.02459
+Uni,2024,repeat calls and segments (probability),0.5,5,0.980892,0.02459
+Uni,7,substitute equivalent variant (probability),0.25,1,0.968153,0.0
+Uni,7,substitute equivalent variant (probability),0.25,2,0.968153,0.02459
+Uni,7,substitute equivalent variant (probability),0.25,3,0.961783,0.016393
+Uni,7,substitute equivalent variant (probability),0.25,4,0.955414,0.032787
+Uni,7,substitute equivalent variant (probability),0.25,5,0.961783,0.02459
+Uni,42,substitute equivalent variant (probability),0.25,1,0.942675,0.02459
+Uni,42,substitute equivalent variant (probability),0.25,2,0.942675,0.0
+Uni,42,substitute equivalent variant (probability),0.25,3,0.942675,0.008197
+Uni,42,substitute equivalent variant (probability),0.25,4,0.942675,0.016393
+Uni,42,substitute equivalent variant (probability),0.25,5,0.949045,0.02459
+Uni,72,substitute equivalent variant (probability),0.25,1,0.936306,0.016393
+Uni,72,substitute equivalent variant (probability),0.25,2,0.936306,0.016393
+Uni,72,substitute equivalent variant (probability),0.25,3,0.936306,0.0
+Uni,72,substitute equivalent variant (probability),0.25,4,0.942675,0.016393
+Uni,72,substitute equivalent variant (probability),0.25,5,0.936306,0.016393
+Uni,123,substitute equivalent variant (probability),0.25,1,0.910828,0.008197
+Uni,123,substitute equivalent variant (probability),0.25,2,0.910828,0.016393
+Uni,123,substitute equivalent variant (probability),0.25,3,0.904459,0.008197
+Uni,123,substitute equivalent variant (probability),0.25,4,0.898089,0.008197
+Uni,123,substitute equivalent variant (probability),0.25,5,0.917197,0.016393
+Uni,2024,substitute equivalent variant (probability),0.25,1,0.968153,0.057377
+Uni,2024,substitute equivalent variant (probability),0.25,2,0.974522,0.065574
+Uni,2024,substitute equivalent variant (probability),0.25,3,0.968153,0.04918
+Uni,2024,substitute equivalent variant (probability),0.25,4,0.974522,0.065574
+Uni,2024,substitute equivalent variant (probability),0.25,5,0.974522,0.032787
+Uni,7,substitute equivalent variant (probability),0.5,1,0.910828,0.02459
+Uni,7,substitute equivalent variant (probability),0.5,2,0.917197,0.02459
+Uni,7,substitute equivalent variant (probability),0.5,3,0.923567,0.032787
+Uni,7,substitute equivalent variant (probability),0.5,4,0.929936,0.008197
+Uni,7,substitute equivalent variant (probability),0.5,5,0.89172,0.008197
+Uni,42,substitute equivalent variant (probability),0.5,1,0.88535,0.02459
+Uni,42,substitute equivalent variant (probability),0.5,2,0.917197,0.032787
+Uni,42,substitute equivalent variant (probability),0.5,3,0.917197,0.04918
+Uni,42,substitute equivalent variant (probability),0.5,4,0.904459,0.008197
+Uni,42,substitute equivalent variant (probability),0.5,5,0.88535,0.008197
+Uni,72,substitute equivalent variant (probability),0.5,1,0.923567,0.02459
+Uni,72,substitute equivalent variant (probability),0.5,2,0.929936,0.02459
+Uni,72,substitute equivalent variant (probability),0.5,3,0.910828,0.02459
+Uni,72,substitute equivalent variant (probability),0.5,4,0.923567,0.02459
+Uni,72,substitute equivalent variant (probability),0.5,5,0.929936,0.0
+Uni,123,substitute equivalent variant (probability),0.5,1,0.796178,0.016393
+Uni,123,substitute equivalent variant (probability),0.5,2,0.853503,0.032787
+Uni,123,substitute equivalent variant (probability),0.5,3,0.815287,0.02459
+Uni,123,substitute equivalent variant (probability),0.5,4,0.840764,0.008197
+Uni,123,substitute equivalent variant (probability),0.5,5,0.77707,0.0
+Uni,2024,substitute equivalent variant (probability),0.5,1,0.968153,0.090164
+Uni,2024,substitute equivalent variant (probability),0.5,2,0.961783,0.081967
+Uni,2024,substitute equivalent variant (probability),0.5,3,0.974522,0.065574
+Uni,2024,substitute equivalent variant (probability),0.5,4,0.955414,0.07377
+Uni,2024,substitute equivalent variant (probability),0.5,5,0.955414,0.04918
+Uni,7,substitute equivalent variant (probability),1.0,1,0.66242,0.032787
+Uni,7,substitute equivalent variant (probability),1.0,2,0.630573,0.040984
+Uni,7,substitute equivalent variant (probability),1.0,3,0.630573,0.032787
+Uni,7,substitute equivalent variant (probability),1.0,4,0.66242,0.032787
+Uni,7,substitute equivalent variant (probability),1.0,5,0.649682,0.02459
+Uni,42,substitute equivalent variant (probability),1.0,1,0.847134,0.040984
+Uni,42,substitute equivalent variant (probability),1.0,2,0.847134,0.040984
+Uni,42,substitute equivalent variant (probability),1.0,3,0.853503,0.04918
+Uni,42,substitute equivalent variant (probability),1.0,4,0.840764,0.04918
+Uni,42,substitute equivalent variant (probability),1.0,5,0.853503,0.040984
+Uni,72,substitute equivalent variant (probability),1.0,1,0.904459,0.032787
+Uni,72,substitute equivalent variant (probability),1.0,2,0.89172,0.040984
+Uni,72,substitute equivalent variant (probability),1.0,3,0.898089,0.032787
+Uni,72,substitute equivalent variant (probability),1.0,4,0.88535,0.032787
+Uni,72,substitute equivalent variant (probability),1.0,5,0.904459,0.040984
+Uni,123,substitute equivalent variant (probability),1.0,1,0.535032,0.02459
+Uni,123,substitute equivalent variant (probability),1.0,2,0.547771,0.057377
+Uni,123,substitute equivalent variant (probability),1.0,3,0.541401,0.02459
+Uni,123,substitute equivalent variant (probability),1.0,4,0.541401,0.040984
+Uni,123,substitute equivalent variant (probability),1.0,5,0.535032,0.040984
+Uni,2024,substitute equivalent variant (probability),1.0,1,0.872611,0.106557
+Uni,2024,substitute equivalent variant (probability),1.0,2,0.872611,0.098361
+Uni,2024,substitute equivalent variant (probability),1.0,3,0.88535,0.106557
+Uni,2024,substitute equivalent variant (probability),1.0,4,0.878981,0.106557
+Uni,2024,substitute equivalent variant (probability),1.0,5,0.923567,0.106557
+Uni,7,swap adjacent calls (probability),0.05,1,0.968153,0.016393
+Uni,7,swap adjacent calls (probability),0.05,2,0.968153,0.016393
+Uni,7,swap adjacent calls (probability),0.05,3,0.968153,0.016393
+Uni,7,swap adjacent calls (probability),0.05,4,0.968153,0.016393
+Uni,7,swap adjacent calls (probability),0.05,5,0.968153,0.008197
+Uni,42,swap adjacent calls (probability),0.05,1,0.949045,0.0
+Uni,42,swap adjacent calls (probability),0.05,2,0.949045,0.008197
+Uni,42,swap adjacent calls (probability),0.05,3,0.961783,0.008197
+Uni,42,swap adjacent calls (probability),0.05,4,0.961783,0.008197
+Uni,42,swap adjacent calls (probability),0.05,5,0.955414,0.008197
+Uni,72,swap adjacent calls (probability),0.05,1,0.949045,0.008197
+Uni,72,swap adjacent calls (probability),0.05,2,0.942675,0.008197
+Uni,72,swap adjacent calls (probability),0.05,3,0.949045,0.008197
+Uni,72,swap adjacent calls (probability),0.05,4,0.942675,0.016393
+Uni,72,swap adjacent calls (probability),0.05,5,0.955414,0.008197
+Uni,123,swap adjacent calls (probability),0.05,1,0.955414,0.0
+Uni,123,swap adjacent calls (probability),0.05,2,0.955414,0.008197
+Uni,123,swap adjacent calls (probability),0.05,3,0.968153,0.0
+Uni,123,swap adjacent calls (probability),0.05,4,0.961783,0.008197
+Uni,123,swap adjacent calls (probability),0.05,5,0.942675,0.008197
+Uni,2024,swap adjacent calls (probability),0.05,1,0.980892,0.032787
+Uni,2024,swap adjacent calls (probability),0.05,2,0.980892,0.032787
+Uni,2024,swap adjacent calls (probability),0.05,3,0.980892,0.02459
+Uni,2024,swap adjacent calls (probability),0.05,4,0.980892,0.032787
+Uni,2024,swap adjacent calls (probability),0.05,5,0.980892,0.032787
+Uni,7,swap adjacent calls (probability),0.1,1,0.968153,0.016393
+Uni,7,swap adjacent calls (probability),0.1,2,0.968153,0.02459
+Uni,7,swap adjacent calls (probability),0.1,3,0.968153,0.008197
+Uni,7,swap adjacent calls (probability),0.1,4,0.968153,0.016393
+Uni,7,swap adjacent calls (probability),0.1,5,0.968153,0.008197
+Uni,42,swap adjacent calls (probability),0.1,1,0.949045,0.016393
+Uni,42,swap adjacent calls (probability),0.1,2,0.961783,0.02459
+Uni,42,swap adjacent calls (probability),0.1,3,0.961783,0.008197
+Uni,42,swap adjacent calls (probability),0.1,4,0.961783,0.016393
+Uni,42,swap adjacent calls (probability),0.1,5,0.968153,0.008197
+Uni,72,swap adjacent calls (probability),0.1,1,0.942675,0.016393
+Uni,72,swap adjacent calls (probability),0.1,2,0.955414,0.02459
+Uni,72,swap adjacent calls (probability),0.1,3,0.949045,0.008197
+Uni,72,swap adjacent calls (probability),0.1,4,0.949045,0.008197
+Uni,72,swap adjacent calls (probability),0.1,5,0.949045,0.008197
+Uni,123,swap adjacent calls (probability),0.1,1,0.942675,0.008197
+Uni,123,swap adjacent calls (probability),0.1,2,0.942675,0.016393
+Uni,123,swap adjacent calls (probability),0.1,3,0.949045,0.0
+Uni,123,swap adjacent calls (probability),0.1,4,0.949045,0.016393
+Uni,123,swap adjacent calls (probability),0.1,5,0.955414,0.0
+Uni,2024,swap adjacent calls (probability),0.1,1,0.980892,0.02459
+Uni,2024,swap adjacent calls (probability),0.1,2,0.980892,0.040984
+Uni,2024,swap adjacent calls (probability),0.1,3,0.980892,0.032787
+Uni,2024,swap adjacent calls (probability),0.1,4,0.980892,0.040984
+Uni,2024,swap adjacent calls (probability),0.1,5,0.980892,0.032787
+Uni,7,swap adjacent calls (probability),0.2,1,0.968153,0.016393
+Uni,7,swap adjacent calls (probability),0.2,2,0.968153,0.016393
+Uni,7,swap adjacent calls (probability),0.2,3,0.968153,0.008197
+Uni,7,swap adjacent calls (probability),0.2,4,0.968153,0.016393
+Uni,7,swap adjacent calls (probability),0.2,5,0.968153,0.0
+Uni,42,swap adjacent calls (probability),0.2,1,0.961783,0.008197
+Uni,42,swap adjacent calls (probability),0.2,2,0.949045,0.0
+Uni,42,swap adjacent calls (probability),0.2,3,0.968153,0.016393
+Uni,42,swap adjacent calls (probability),0.2,4,0.961783,0.008197
+Uni,42,swap adjacent calls (probability),0.2,5,0.949045,0.016393
+Uni,72,swap adjacent calls (probability),0.2,1,0.942675,0.008197
+Uni,72,swap adjacent calls (probability),0.2,2,0.949045,0.008197
+Uni,72,swap adjacent calls (probability),0.2,3,0.942675,0.008197
+Uni,72,swap adjacent calls (probability),0.2,4,0.949045,0.008197
+Uni,72,swap adjacent calls (probability),0.2,5,0.936306,0.008197
+Uni,123,swap adjacent calls (probability),0.2,1,0.942675,0.0
+Uni,123,swap adjacent calls (probability),0.2,2,0.942675,0.008197
+Uni,123,swap adjacent calls (probability),0.2,3,0.955414,0.02459
+Uni,123,swap adjacent calls (probability),0.2,4,0.949045,0.0
+Uni,123,swap adjacent calls (probability),0.2,5,0.936306,0.016393
+Uni,2024,swap adjacent calls (probability),0.2,1,0.980892,0.04918
+Uni,2024,swap adjacent calls (probability),0.2,2,0.980892,0.04918
+Uni,2024,swap adjacent calls (probability),0.2,3,0.980892,0.032787
+Uni,2024,swap adjacent calls (probability),0.2,4,0.974522,0.032787
+Uni,2024,swap adjacent calls (probability),0.2,5,0.980892,0.040984
+Uni,7,swap adjacent calls (probability),0.4,1,0.968153,0.016393
+Uni,7,swap adjacent calls (probability),0.4,2,0.968153,0.016393
+Uni,7,swap adjacent calls (probability),0.4,3,0.968153,0.0
+Uni,7,swap adjacent calls (probability),0.4,4,0.968153,0.0
+Uni,7,swap adjacent calls (probability),0.4,5,0.968153,0.008197
+Uni,42,swap adjacent calls (probability),0.4,1,0.961783,0.008197
+Uni,42,swap adjacent calls (probability),0.4,2,0.955414,0.008197
+Uni,42,swap adjacent calls (probability),0.4,3,0.968153,0.008197
+Uni,42,swap adjacent calls (probability),0.4,4,0.955414,0.0
+Uni,42,swap adjacent calls (probability),0.4,5,0.955414,0.008197
+Uni,72,swap adjacent calls (probability),0.4,1,0.942675,0.008197
+Uni,72,swap adjacent calls (probability),0.4,2,0.949045,0.016393
+Uni,72,swap adjacent calls (probability),0.4,3,0.942675,0.016393
+Uni,72,swap adjacent calls (probability),0.4,4,0.955414,0.008197
+Uni,72,swap adjacent calls (probability),0.4,5,0.949045,0.02459
+Uni,123,swap adjacent calls (probability),0.4,1,0.949045,0.008197
+Uni,123,swap adjacent calls (probability),0.4,2,0.923567,0.008197
+Uni,123,swap adjacent calls (probability),0.4,3,0.923567,0.0
+Uni,123,swap adjacent calls (probability),0.4,4,0.949045,0.008197
+Uni,123,swap adjacent calls (probability),0.4,5,0.923567,0.008197
+Uni,2024,swap adjacent calls (probability),0.4,1,0.968153,0.04918
+Uni,2024,swap adjacent calls (probability),0.4,2,0.980892,0.032787
+Uni,2024,swap adjacent calls (probability),0.4,3,0.980892,0.040984
+Uni,2024,swap adjacent calls (probability),0.4,4,0.974522,0.032787
+Uni,2024,swap adjacent calls (probability),0.4,5,0.974522,0.040984
+Uni+Bi,7,benign preamble (distinct calls),10.0,1,0.917197,0.040984
+Uni+Bi,7,benign preamble (distinct calls),10.0,2,0.898089,0.032787
+Uni+Bi,7,benign preamble (distinct calls),10.0,3,0.917197,0.057377
+Uni+Bi,7,benign preamble (distinct calls),10.0,4,0.917197,0.040984
+Uni+Bi,7,benign preamble (distinct calls),10.0,5,0.89172,0.032787
+Uni+Bi,42,benign preamble (distinct calls),10.0,1,0.949045,0.032787
+Uni+Bi,42,benign preamble (distinct calls),10.0,2,0.955414,0.02459
+Uni+Bi,42,benign preamble (distinct calls),10.0,3,0.929936,0.02459
+Uni+Bi,42,benign preamble (distinct calls),10.0,4,0.949045,0.008197
+Uni+Bi,42,benign preamble (distinct calls),10.0,5,0.898089,0.02459
+Uni+Bi,72,benign preamble (distinct calls),10.0,1,0.910828,0.016393
+Uni+Bi,72,benign preamble (distinct calls),10.0,2,0.910828,0.02459
+Uni+Bi,72,benign preamble (distinct calls),10.0,3,0.898089,0.02459
+Uni+Bi,72,benign preamble (distinct calls),10.0,4,0.936306,0.016393
+Uni+Bi,72,benign preamble (distinct calls),10.0,5,0.898089,0.02459
+Uni+Bi,123,benign preamble (distinct calls),10.0,1,0.942675,0.016393
+Uni+Bi,123,benign preamble (distinct calls),10.0,2,0.936306,0.008197
+Uni+Bi,123,benign preamble (distinct calls),10.0,3,0.936306,0.02459
+Uni+Bi,123,benign preamble (distinct calls),10.0,4,0.942675,0.02459
+Uni+Bi,123,benign preamble (distinct calls),10.0,5,0.917197,0.02459
+Uni+Bi,2024,benign preamble (distinct calls),10.0,1,0.949045,0.02459
+Uni+Bi,2024,benign preamble (distinct calls),10.0,2,0.942675,0.016393
+Uni+Bi,2024,benign preamble (distinct calls),10.0,3,0.961783,0.008197
+Uni+Bi,2024,benign preamble (distinct calls),10.0,4,0.949045,0.02459
+Uni+Bi,2024,benign preamble (distinct calls),10.0,5,0.949045,0.016393
+Uni+Bi,7,benign preamble (distinct calls),25.0,1,0.821656,0.032787
+Uni+Bi,7,benign preamble (distinct calls),25.0,2,0.872611,0.016393
+Uni+Bi,7,benign preamble (distinct calls),25.0,3,0.815287,0.016393
+Uni+Bi,7,benign preamble (distinct calls),25.0,4,0.821656,0.02459
+Uni+Bi,7,benign preamble (distinct calls),25.0,5,0.834395,0.032787
+Uni+Bi,42,benign preamble (distinct calls),25.0,1,0.840764,0.02459
+Uni+Bi,42,benign preamble (distinct calls),25.0,2,0.859873,0.016393
+Uni+Bi,42,benign preamble (distinct calls),25.0,3,0.828025,0.032787
+Uni+Bi,42,benign preamble (distinct calls),25.0,4,0.853503,0.04918
+Uni+Bi,42,benign preamble (distinct calls),25.0,5,0.847134,0.02459
+Uni+Bi,72,benign preamble (distinct calls),25.0,1,0.834395,0.016393
+Uni+Bi,72,benign preamble (distinct calls),25.0,2,0.834395,0.032787
+Uni+Bi,72,benign preamble (distinct calls),25.0,3,0.808917,0.016393
+Uni+Bi,72,benign preamble (distinct calls),25.0,4,0.834395,0.02459
+Uni+Bi,72,benign preamble (distinct calls),25.0,5,0.821656,0.016393
+Uni+Bi,123,benign preamble (distinct calls),25.0,1,0.88535,0.032787
+Uni+Bi,123,benign preamble (distinct calls),25.0,2,0.878981,0.02459
+Uni+Bi,123,benign preamble (distinct calls),25.0,3,0.898089,0.016393
+Uni+Bi,123,benign preamble (distinct calls),25.0,4,0.878981,0.016393
+Uni+Bi,123,benign preamble (distinct calls),25.0,5,0.910828,0.02459
+Uni+Bi,2024,benign preamble (distinct calls),25.0,1,0.923567,0.016393
+Uni+Bi,2024,benign preamble (distinct calls),25.0,2,0.904459,0.02459
+Uni+Bi,2024,benign preamble (distinct calls),25.0,3,0.904459,0.016393
+Uni+Bi,2024,benign preamble (distinct calls),25.0,4,0.88535,0.016393
+Uni+Bi,2024,benign preamble (distinct calls),25.0,5,0.929936,0.02459
+Uni+Bi,7,benign preamble (distinct calls),50.0,1,0.547771,0.016393
+Uni+Bi,7,benign preamble (distinct calls),50.0,2,0.515924,0.016393
+Uni+Bi,7,benign preamble (distinct calls),50.0,3,0.503185,0.016393
+Uni+Bi,7,benign preamble (distinct calls),50.0,4,0.477707,0.0
+Uni+Bi,7,benign preamble (distinct calls),50.0,5,0.452229,0.008197
+Uni+Bi,42,benign preamble (distinct calls),50.0,1,0.681529,0.032787
+Uni+Bi,42,benign preamble (distinct calls),50.0,2,0.598726,0.02459
+Uni+Bi,42,benign preamble (distinct calls),50.0,3,0.636943,0.040984
+Uni+Bi,42,benign preamble (distinct calls),50.0,4,0.649682,0.016393
+Uni+Bi,42,benign preamble (distinct calls),50.0,5,0.675159,0.02459
+Uni+Bi,72,benign preamble (distinct calls),50.0,1,0.66242,0.016393
+Uni+Bi,72,benign preamble (distinct calls),50.0,2,0.643312,0.016393
+Uni+Bi,72,benign preamble (distinct calls),50.0,3,0.66242,0.032787
+Uni+Bi,72,benign preamble (distinct calls),50.0,4,0.681529,0.02459
+Uni+Bi,72,benign preamble (distinct calls),50.0,5,0.66242,0.02459
+Uni+Bi,123,benign preamble (distinct calls),50.0,1,0.681529,0.0
+Uni+Bi,123,benign preamble (distinct calls),50.0,2,0.66879,0.0
+Uni+Bi,123,benign preamble (distinct calls),50.0,3,0.656051,0.008197
+Uni+Bi,123,benign preamble (distinct calls),50.0,4,0.656051,0.0
+Uni+Bi,123,benign preamble (distinct calls),50.0,5,0.66879,0.008197
+Uni+Bi,2024,benign preamble (distinct calls),50.0,1,0.726115,0.008197
+Uni+Bi,2024,benign preamble (distinct calls),50.0,2,0.726115,0.0
+Uni+Bi,2024,benign preamble (distinct calls),50.0,3,0.681529,0.02459
+Uni+Bi,2024,benign preamble (distinct calls),50.0,4,0.719745,0.008197
+Uni+Bi,2024,benign preamble (distinct calls),50.0,5,0.713376,0.008197
+Uni+Bi,7,benign preamble (distinct calls),100.0,1,0.235669,0.02459
+Uni+Bi,7,benign preamble (distinct calls),100.0,2,0.286624,0.02459
+Uni+Bi,7,benign preamble (distinct calls),100.0,3,0.235669,0.04918
+Uni+Bi,7,benign preamble (distinct calls),100.0,4,0.254777,0.04918
+Uni+Bi,7,benign preamble (distinct calls),100.0,5,0.210191,0.04918
+Uni+Bi,42,benign preamble (distinct calls),100.0,1,0.229299,0.057377
+Uni+Bi,42,benign preamble (distinct calls),100.0,2,0.22293,0.098361
+Uni+Bi,42,benign preamble (distinct calls),100.0,3,0.242038,0.04918
+Uni+Bi,42,benign preamble (distinct calls),100.0,4,0.229299,0.040984
+Uni+Bi,42,benign preamble (distinct calls),100.0,5,0.229299,0.07377
+Uni+Bi,72,benign preamble (distinct calls),100.0,1,0.33121,0.04918
+Uni+Bi,72,benign preamble (distinct calls),100.0,2,0.343949,0.098361
+Uni+Bi,72,benign preamble (distinct calls),100.0,3,0.33121,0.090164
+Uni+Bi,72,benign preamble (distinct calls),100.0,4,0.286624,0.040984
+Uni+Bi,72,benign preamble (distinct calls),100.0,5,0.33121,0.065574
+Uni+Bi,123,benign preamble (distinct calls),100.0,1,0.267516,0.008197
+Uni+Bi,123,benign preamble (distinct calls),100.0,2,0.273885,0.008197
+Uni+Bi,123,benign preamble (distinct calls),100.0,3,0.242038,0.02459
+Uni+Bi,123,benign preamble (distinct calls),100.0,4,0.280255,0.040984
+Uni+Bi,123,benign preamble (distinct calls),100.0,5,0.254777,0.016393
+Uni+Bi,2024,benign preamble (distinct calls),100.0,1,0.216561,0.008197
+Uni+Bi,2024,benign preamble (distinct calls),100.0,2,0.210191,0.016393
+Uni+Bi,2024,benign preamble (distinct calls),100.0,3,0.203822,0.032787
+Uni+Bi,2024,benign preamble (distinct calls),100.0,4,0.216561,0.02459
+Uni+Bi,2024,benign preamble (distinct calls),100.0,5,0.22293,0.04918
+Uni+Bi,7,insert benign filler (fraction of length),0.1,1,0.968153,0.032787
+Uni+Bi,7,insert benign filler (fraction of length),0.1,2,0.955414,0.016393
+Uni+Bi,7,insert benign filler (fraction of length),0.1,3,0.968153,0.032787
+Uni+Bi,7,insert benign filler (fraction of length),0.1,4,0.961783,0.02459
+Uni+Bi,7,insert benign filler (fraction of length),0.1,5,0.968153,0.032787
+Uni+Bi,42,insert benign filler (fraction of length),0.1,1,0.980892,0.040984
+Uni+Bi,42,insert benign filler (fraction of length),0.1,2,0.980892,0.02459
+Uni+Bi,42,insert benign filler (fraction of length),0.1,3,0.980892,0.040984
+Uni+Bi,42,insert benign filler (fraction of length),0.1,4,0.980892,0.016393
+Uni+Bi,42,insert benign filler (fraction of length),0.1,5,0.980892,0.040984
+Uni+Bi,72,insert benign filler (fraction of length),0.1,1,0.980892,0.04918
+Uni+Bi,72,insert benign filler (fraction of length),0.1,2,0.980892,0.040984
+Uni+Bi,72,insert benign filler (fraction of length),0.1,3,0.980892,0.040984
+Uni+Bi,72,insert benign filler (fraction of length),0.1,4,0.980892,0.04918
+Uni+Bi,72,insert benign filler (fraction of length),0.1,5,0.980892,0.032787
+Uni+Bi,123,insert benign filler (fraction of length),0.1,1,0.968153,0.016393
+Uni+Bi,123,insert benign filler (fraction of length),0.1,2,0.961783,0.032787
+Uni+Bi,123,insert benign filler (fraction of length),0.1,3,0.980892,0.02459
+Uni+Bi,123,insert benign filler (fraction of length),0.1,4,0.974522,0.032787
+Uni+Bi,123,insert benign filler (fraction of length),0.1,5,0.961783,0.032787
+Uni+Bi,2024,insert benign filler (fraction of length),0.1,1,0.968153,0.016393
+Uni+Bi,2024,insert benign filler (fraction of length),0.1,2,0.974522,0.02459
+Uni+Bi,2024,insert benign filler (fraction of length),0.1,3,0.968153,0.032787
+Uni+Bi,2024,insert benign filler (fraction of length),0.1,4,0.980892,0.032787
+Uni+Bi,2024,insert benign filler (fraction of length),0.1,5,0.974522,0.02459
+Uni+Bi,7,insert benign filler (fraction of length),0.25,1,0.949045,0.032787
+Uni+Bi,7,insert benign filler (fraction of length),0.25,2,0.949045,0.04918
+Uni+Bi,7,insert benign filler (fraction of length),0.25,3,0.955414,0.02459
+Uni+Bi,7,insert benign filler (fraction of length),0.25,4,0.949045,0.040984
+Uni+Bi,7,insert benign filler (fraction of length),0.25,5,0.961783,0.032787
+Uni+Bi,42,insert benign filler (fraction of length),0.25,1,0.980892,0.040984
+Uni+Bi,42,insert benign filler (fraction of length),0.25,2,0.980892,0.057377
+Uni+Bi,42,insert benign filler (fraction of length),0.25,3,0.980892,0.032787
+Uni+Bi,42,insert benign filler (fraction of length),0.25,4,0.980892,0.040984
+Uni+Bi,42,insert benign filler (fraction of length),0.25,5,0.961783,0.040984
+Uni+Bi,72,insert benign filler (fraction of length),0.25,1,0.980892,0.02459
+Uni+Bi,72,insert benign filler (fraction of length),0.25,2,0.968153,0.040984
+Uni+Bi,72,insert benign filler (fraction of length),0.25,3,0.968153,0.032787
+Uni+Bi,72,insert benign filler (fraction of length),0.25,4,0.980892,0.040984
+Uni+Bi,72,insert benign filler (fraction of length),0.25,5,0.974522,0.04918
+Uni+Bi,123,insert benign filler (fraction of length),0.25,1,0.968153,0.032787
+Uni+Bi,123,insert benign filler (fraction of length),0.25,2,0.949045,0.016393
+Uni+Bi,123,insert benign filler (fraction of length),0.25,3,0.961783,0.016393
+Uni+Bi,123,insert benign filler (fraction of length),0.25,4,0.968153,0.016393
+Uni+Bi,123,insert benign filler (fraction of length),0.25,5,0.961783,0.02459
+Uni+Bi,2024,insert benign filler (fraction of length),0.25,1,0.974522,0.02459
+Uni+Bi,2024,insert benign filler (fraction of length),0.25,2,0.961783,0.02459
+Uni+Bi,2024,insert benign filler (fraction of length),0.25,3,0.974522,0.02459
+Uni+Bi,2024,insert benign filler (fraction of length),0.25,4,0.980892,0.02459
+Uni+Bi,2024,insert benign filler (fraction of length),0.25,5,0.961783,0.02459
+Uni+Bi,7,insert benign filler (fraction of length),0.5,1,0.89172,0.02459
+Uni+Bi,7,insert benign filler (fraction of length),0.5,2,0.898089,0.02459
+Uni+Bi,7,insert benign filler (fraction of length),0.5,3,0.942675,0.032787
+Uni+Bi,7,insert benign filler (fraction of length),0.5,4,0.910828,0.057377
+Uni+Bi,7,insert benign filler (fraction of length),0.5,5,0.917197,0.0
+Uni+Bi,42,insert benign filler (fraction of length),0.5,1,0.974522,0.065574
+Uni+Bi,42,insert benign filler (fraction of length),0.5,2,0.980892,0.057377
+Uni+Bi,42,insert benign filler (fraction of length),0.5,3,0.955414,0.057377
+Uni+Bi,42,insert benign filler (fraction of length),0.5,4,0.974522,0.057377
+Uni+Bi,42,insert benign filler (fraction of length),0.5,5,0.974522,0.02459
+Uni+Bi,72,insert benign filler (fraction of length),0.5,1,0.942675,0.02459
+Uni+Bi,72,insert benign filler (fraction of length),0.5,2,0.955414,0.04918
+Uni+Bi,72,insert benign filler (fraction of length),0.5,3,0.961783,0.032787
+Uni+Bi,72,insert benign filler (fraction of length),0.5,4,0.968153,0.04918
+Uni+Bi,72,insert benign filler (fraction of length),0.5,5,0.955414,0.032787
+Uni+Bi,123,insert benign filler (fraction of length),0.5,1,0.961783,0.008197
+Uni+Bi,123,insert benign filler (fraction of length),0.5,2,0.949045,0.016393
+Uni+Bi,123,insert benign filler (fraction of length),0.5,3,0.942675,0.02459
+Uni+Bi,123,insert benign filler (fraction of length),0.5,4,0.942675,0.016393
+Uni+Bi,123,insert benign filler (fraction of length),0.5,5,0.949045,0.02459
+Uni+Bi,2024,insert benign filler (fraction of length),0.5,1,0.955414,0.032787
+Uni+Bi,2024,insert benign filler (fraction of length),0.5,2,0.968153,0.032787
+Uni+Bi,2024,insert benign filler (fraction of length),0.5,3,0.955414,0.0
+Uni+Bi,2024,insert benign filler (fraction of length),0.5,4,0.961783,0.032787
+Uni+Bi,2024,insert benign filler (fraction of length),0.5,5,0.961783,0.040984
+Uni+Bi,7,insert benign filler (fraction of length),1.0,1,0.872611,0.040984
+Uni+Bi,7,insert benign filler (fraction of length),1.0,2,0.859873,0.07377
+Uni+Bi,7,insert benign filler (fraction of length),1.0,3,0.89172,0.090164
+Uni+Bi,7,insert benign filler (fraction of length),1.0,4,0.88535,0.081967
+Uni+Bi,7,insert benign filler (fraction of length),1.0,5,0.89172,0.07377
+Uni+Bi,42,insert benign filler (fraction of length),1.0,1,0.955414,0.07377
+Uni+Bi,42,insert benign filler (fraction of length),1.0,2,0.923567,0.106557
+Uni+Bi,42,insert benign filler (fraction of length),1.0,3,0.955414,0.131148
+Uni+Bi,42,insert benign filler (fraction of length),1.0,4,0.923567,0.07377
+Uni+Bi,42,insert benign filler (fraction of length),1.0,5,0.929936,0.065574
+Uni+Bi,72,insert benign filler (fraction of length),1.0,1,0.917197,0.07377
+Uni+Bi,72,insert benign filler (fraction of length),1.0,2,0.917197,0.07377
+Uni+Bi,72,insert benign filler (fraction of length),1.0,3,0.942675,0.106557
+Uni+Bi,72,insert benign filler (fraction of length),1.0,4,0.910828,0.04918
+Uni+Bi,72,insert benign filler (fraction of length),1.0,5,0.942675,0.081967
+Uni+Bi,123,insert benign filler (fraction of length),1.0,1,0.904459,0.032787
+Uni+Bi,123,insert benign filler (fraction of length),1.0,2,0.929936,0.057377
+Uni+Bi,123,insert benign filler (fraction of length),1.0,3,0.929936,0.065574
+Uni+Bi,123,insert benign filler (fraction of length),1.0,4,0.917197,0.02459
+Uni+Bi,123,insert benign filler (fraction of length),1.0,5,0.898089,0.040984
+Uni+Bi,2024,insert benign filler (fraction of length),1.0,1,0.949045,0.040984
+Uni+Bi,2024,insert benign filler (fraction of length),1.0,2,0.923567,0.057377
+Uni+Bi,2024,insert benign filler (fraction of length),1.0,3,0.955414,0.065574
+Uni+Bi,2024,insert benign filler (fraction of length),1.0,4,0.936306,0.032787
+Uni+Bi,2024,insert benign filler (fraction of length),1.0,5,0.949045,0.04918
+Uni+Bi,7,none,0.0,1,0.968153,0.032787
+Uni+Bi,42,none,0.0,1,0.980892,0.032787
+Uni+Bi,72,none,0.0,1,0.980892,0.040984
+Uni+Bi,123,none,0.0,1,0.974522,0.008197
+Uni+Bi,2024,none,0.0,1,0.974522,0.02459
+Uni+Bi,7,repeat calls and segments (probability),0.5,1,0.968153,0.032787
+Uni+Bi,7,repeat calls and segments (probability),0.5,2,0.968153,0.032787
+Uni+Bi,7,repeat calls and segments (probability),0.5,3,0.968153,0.032787
+Uni+Bi,7,repeat calls and segments (probability),0.5,4,0.968153,0.032787
+Uni+Bi,7,repeat calls and segments (probability),0.5,5,0.968153,0.032787
+Uni+Bi,42,repeat calls and segments (probability),0.5,1,0.980892,0.032787
+Uni+Bi,42,repeat calls and segments (probability),0.5,2,0.980892,0.032787
+Uni+Bi,42,repeat calls and segments (probability),0.5,3,0.980892,0.032787
+Uni+Bi,42,repeat calls and segments (probability),0.5,4,0.980892,0.032787
+Uni+Bi,42,repeat calls and segments (probability),0.5,5,0.980892,0.032787
+Uni+Bi,72,repeat calls and segments (probability),0.5,1,0.980892,0.040984
+Uni+Bi,72,repeat calls and segments (probability),0.5,2,0.980892,0.040984
+Uni+Bi,72,repeat calls and segments (probability),0.5,3,0.980892,0.040984
+Uni+Bi,72,repeat calls and segments (probability),0.5,4,0.980892,0.040984
+Uni+Bi,72,repeat calls and segments (probability),0.5,5,0.980892,0.040984
+Uni+Bi,123,repeat calls and segments (probability),0.5,1,0.974522,0.008197
+Uni+Bi,123,repeat calls and segments (probability),0.5,2,0.974522,0.008197
+Uni+Bi,123,repeat calls and segments (probability),0.5,3,0.974522,0.008197
+Uni+Bi,123,repeat calls and segments (probability),0.5,4,0.974522,0.008197
+Uni+Bi,123,repeat calls and segments (probability),0.5,5,0.974522,0.008197
+Uni+Bi,2024,repeat calls and segments (probability),0.5,1,0.974522,0.02459
+Uni+Bi,2024,repeat calls and segments (probability),0.5,2,0.974522,0.02459
+Uni+Bi,2024,repeat calls and segments (probability),0.5,3,0.974522,0.02459
+Uni+Bi,2024,repeat calls and segments (probability),0.5,4,0.974522,0.02459
+Uni+Bi,2024,repeat calls and segments (probability),0.5,5,0.974522,0.02459
+Uni+Bi,7,substitute equivalent variant (probability),0.25,1,0.942675,0.04918
+Uni+Bi,7,substitute equivalent variant (probability),0.25,2,0.968153,0.04918
+Uni+Bi,7,substitute equivalent variant (probability),0.25,3,0.968153,0.032787
+Uni+Bi,7,substitute equivalent variant (probability),0.25,4,0.949045,0.032787
+Uni+Bi,7,substitute equivalent variant (probability),0.25,5,0.955414,0.040984
+Uni+Bi,42,substitute equivalent variant (probability),0.25,1,0.974522,0.032787
+Uni+Bi,42,substitute equivalent variant (probability),0.25,2,0.974522,0.040984
+Uni+Bi,42,substitute equivalent variant (probability),0.25,3,0.974522,0.040984
+Uni+Bi,42,substitute equivalent variant (probability),0.25,4,0.968153,0.040984
+Uni+Bi,42,substitute equivalent variant (probability),0.25,5,0.980892,0.040984
+Uni+Bi,72,substitute equivalent variant (probability),0.25,1,0.974522,0.032787
+Uni+Bi,72,substitute equivalent variant (probability),0.25,2,0.974522,0.02459
+Uni+Bi,72,substitute equivalent variant (probability),0.25,3,0.974522,0.04918
+Uni+Bi,72,substitute equivalent variant (probability),0.25,4,0.974522,0.04918
+Uni+Bi,72,substitute equivalent variant (probability),0.25,5,0.980892,0.040984
+Uni+Bi,123,substitute equivalent variant (probability),0.25,1,0.961783,0.02459
+Uni+Bi,123,substitute equivalent variant (probability),0.25,2,0.968153,0.02459
+Uni+Bi,123,substitute equivalent variant (probability),0.25,3,0.955414,0.016393
+Uni+Bi,123,substitute equivalent variant (probability),0.25,4,0.955414,0.016393
+Uni+Bi,123,substitute equivalent variant (probability),0.25,5,0.961783,0.016393
+Uni+Bi,2024,substitute equivalent variant (probability),0.25,1,0.968153,0.02459
+Uni+Bi,2024,substitute equivalent variant (probability),0.25,2,0.968153,0.02459
+Uni+Bi,2024,substitute equivalent variant (probability),0.25,3,0.974522,0.032787
+Uni+Bi,2024,substitute equivalent variant (probability),0.25,4,0.968153,0.02459
+Uni+Bi,2024,substitute equivalent variant (probability),0.25,5,0.974522,0.02459
+Uni+Bi,7,substitute equivalent variant (probability),0.5,1,0.910828,0.057377
+Uni+Bi,7,substitute equivalent variant (probability),0.5,2,0.929936,0.040984
+Uni+Bi,7,substitute equivalent variant (probability),0.5,3,0.949045,0.040984
+Uni+Bi,7,substitute equivalent variant (probability),0.5,4,0.942675,0.02459
+Uni+Bi,7,substitute equivalent variant (probability),0.5,5,0.936306,0.040984
+Uni+Bi,42,substitute equivalent variant (probability),0.5,1,0.974522,0.057377
+Uni+Bi,42,substitute equivalent variant (probability),0.5,2,0.968153,0.057377
+Uni+Bi,42,substitute equivalent variant (probability),0.5,3,0.974522,0.040984
+Uni+Bi,42,substitute equivalent variant (probability),0.5,4,0.980892,0.040984
+Uni+Bi,42,substitute equivalent variant (probability),0.5,5,0.968153,0.04918
+Uni+Bi,72,substitute equivalent variant (probability),0.5,1,0.968153,0.057377
+Uni+Bi,72,substitute equivalent variant (probability),0.5,2,0.961783,0.065574
+Uni+Bi,72,substitute equivalent variant (probability),0.5,3,0.961783,0.032787
+Uni+Bi,72,substitute equivalent variant (probability),0.5,4,0.974522,0.040984
+Uni+Bi,72,substitute equivalent variant (probability),0.5,5,0.961783,0.040984
+Uni+Bi,123,substitute equivalent variant (probability),0.5,1,0.917197,0.032787
+Uni+Bi,123,substitute equivalent variant (probability),0.5,2,0.961783,0.02459
+Uni+Bi,123,substitute equivalent variant (probability),0.5,3,0.949045,0.02459
+Uni+Bi,123,substitute equivalent variant (probability),0.5,4,0.955414,0.016393
+Uni+Bi,123,substitute equivalent variant (probability),0.5,5,0.936306,0.032787
+Uni+Bi,2024,substitute equivalent variant (probability),0.5,1,0.955414,0.032787
+Uni+Bi,2024,substitute equivalent variant (probability),0.5,2,0.974522,0.032787
+Uni+Bi,2024,substitute equivalent variant (probability),0.5,3,0.968153,0.032787
+Uni+Bi,2024,substitute equivalent variant (probability),0.5,4,0.961783,0.02459
+Uni+Bi,2024,substitute equivalent variant (probability),0.5,5,0.968153,0.032787
+Uni+Bi,7,substitute equivalent variant (probability),1.0,1,0.789809,0.065574
+Uni+Bi,7,substitute equivalent variant (probability),1.0,2,0.77707,0.065574
+Uni+Bi,7,substitute equivalent variant (probability),1.0,3,0.789809,0.07377
+Uni+Bi,7,substitute equivalent variant (probability),1.0,4,0.77707,0.081967
+Uni+Bi,7,substitute equivalent variant (probability),1.0,5,0.783439,0.065574
+Uni+Bi,42,substitute equivalent variant (probability),1.0,1,0.961783,0.081967
+Uni+Bi,42,substitute equivalent variant (probability),1.0,2,0.942675,0.081967
+Uni+Bi,42,substitute equivalent variant (probability),1.0,3,0.949045,0.090164
+Uni+Bi,42,substitute equivalent variant (probability),1.0,4,0.942675,0.090164
+Uni+Bi,42,substitute equivalent variant (probability),1.0,5,0.942675,0.090164
+Uni+Bi,72,substitute equivalent variant (probability),1.0,1,0.910828,0.065574
+Uni+Bi,72,substitute equivalent variant (probability),1.0,2,0.910828,0.057377
+Uni+Bi,72,substitute equivalent variant (probability),1.0,3,0.910828,0.07377
+Uni+Bi,72,substitute equivalent variant (probability),1.0,4,0.910828,0.057377
+Uni+Bi,72,substitute equivalent variant (probability),1.0,5,0.910828,0.065574
+Uni+Bi,123,substitute equivalent variant (probability),1.0,1,0.828025,0.02459
+Uni+Bi,123,substitute equivalent variant (probability),1.0,2,0.802548,0.032787
+Uni+Bi,123,substitute equivalent variant (probability),1.0,3,0.828025,0.032787
+Uni+Bi,123,substitute equivalent variant (probability),1.0,4,0.828025,0.032787
+Uni+Bi,123,substitute equivalent variant (probability),1.0,5,0.834395,0.032787
+Uni+Bi,2024,substitute equivalent variant (probability),1.0,1,0.796178,0.04918
+Uni+Bi,2024,substitute equivalent variant (probability),1.0,2,0.796178,0.032787
+Uni+Bi,2024,substitute equivalent variant (probability),1.0,3,0.796178,0.04918
+Uni+Bi,2024,substitute equivalent variant (probability),1.0,4,0.796178,0.04918
+Uni+Bi,2024,substitute equivalent variant (probability),1.0,5,0.796178,0.040984
+Uni+Bi,7,swap adjacent calls (probability),0.05,1,0.974522,0.032787
+Uni+Bi,7,swap adjacent calls (probability),0.05,2,0.968153,0.040984
+Uni+Bi,7,swap adjacent calls (probability),0.05,3,0.974522,0.040984
+Uni+Bi,7,swap adjacent calls (probability),0.05,4,0.974522,0.057377
+Uni+Bi,7,swap adjacent calls (probability),0.05,5,0.974522,0.04918
+Uni+Bi,42,swap adjacent calls (probability),0.05,1,0.974522,0.057377
+Uni+Bi,42,swap adjacent calls (probability),0.05,2,0.980892,0.057377
+Uni+Bi,42,swap adjacent calls (probability),0.05,3,0.980892,0.04918
+Uni+Bi,42,swap adjacent calls (probability),0.05,4,0.980892,0.040984
+Uni+Bi,42,swap adjacent calls (probability),0.05,5,0.980892,0.065574
+Uni+Bi,72,swap adjacent calls (probability),0.05,1,0.980892,0.04918
+Uni+Bi,72,swap adjacent calls (probability),0.05,2,0.980892,0.057377
+Uni+Bi,72,swap adjacent calls (probability),0.05,3,0.980892,0.040984
+Uni+Bi,72,swap adjacent calls (probability),0.05,4,0.980892,0.040984
+Uni+Bi,72,swap adjacent calls (probability),0.05,5,0.980892,0.057377
+Uni+Bi,123,swap adjacent calls (probability),0.05,1,0.974522,0.016393
+Uni+Bi,123,swap adjacent calls (probability),0.05,2,0.974522,0.008197
+Uni+Bi,123,swap adjacent calls (probability),0.05,3,0.974522,0.008197
+Uni+Bi,123,swap adjacent calls (probability),0.05,4,0.974522,0.016393
+Uni+Bi,123,swap adjacent calls (probability),0.05,5,0.974522,0.02459
+Uni+Bi,2024,swap adjacent calls (probability),0.05,1,0.974522,0.032787
+Uni+Bi,2024,swap adjacent calls (probability),0.05,2,0.980892,0.040984
+Uni+Bi,2024,swap adjacent calls (probability),0.05,3,0.980892,0.02459
+Uni+Bi,2024,swap adjacent calls (probability),0.05,4,0.980892,0.032787
+Uni+Bi,2024,swap adjacent calls (probability),0.05,5,0.980892,0.04918
+Uni+Bi,7,swap adjacent calls (probability),0.1,1,0.968153,0.07377
+Uni+Bi,7,swap adjacent calls (probability),0.1,2,0.961783,0.032787
+Uni+Bi,7,swap adjacent calls (probability),0.1,3,0.968153,0.04918
+Uni+Bi,7,swap adjacent calls (probability),0.1,4,0.980892,0.04918
+Uni+Bi,7,swap adjacent calls (probability),0.1,5,0.961783,0.032787
+Uni+Bi,42,swap adjacent calls (probability),0.1,1,0.974522,0.065574
+Uni+Bi,42,swap adjacent calls (probability),0.1,2,0.980892,0.057377
+Uni+Bi,42,swap adjacent calls (probability),0.1,3,0.980892,0.032787
+Uni+Bi,42,swap adjacent calls (probability),0.1,4,0.980892,0.057377
+Uni+Bi,42,swap adjacent calls (probability),0.1,5,0.980892,0.057377
+Uni+Bi,72,swap adjacent calls (probability),0.1,1,0.974522,0.04918
+Uni+Bi,72,swap adjacent calls (probability),0.1,2,0.974522,0.04918
+Uni+Bi,72,swap adjacent calls (probability),0.1,3,0.980892,0.040984
+Uni+Bi,72,swap adjacent calls (probability),0.1,4,0.980892,0.065574
+Uni+Bi,72,swap adjacent calls (probability),0.1,5,0.980892,0.040984
+Uni+Bi,123,swap adjacent calls (probability),0.1,1,0.942675,0.040984
+Uni+Bi,123,swap adjacent calls (probability),0.1,2,0.974522,0.016393
+Uni+Bi,123,swap adjacent calls (probability),0.1,3,0.974522,0.016393
+Uni+Bi,123,swap adjacent calls (probability),0.1,4,0.974522,0.032787
+Uni+Bi,123,swap adjacent calls (probability),0.1,5,0.974522,0.008197
+Uni+Bi,2024,swap adjacent calls (probability),0.1,1,0.974522,0.032787
+Uni+Bi,2024,swap adjacent calls (probability),0.1,2,0.968153,0.032787
+Uni+Bi,2024,swap adjacent calls (probability),0.1,3,0.974522,0.02459
+Uni+Bi,2024,swap adjacent calls (probability),0.1,4,0.980892,0.04918
+Uni+Bi,2024,swap adjacent calls (probability),0.1,5,0.980892,0.032787
+Uni+Bi,7,swap adjacent calls (probability),0.2,1,0.955414,0.065574
+Uni+Bi,7,swap adjacent calls (probability),0.2,2,0.961783,0.040984
+Uni+Bi,7,swap adjacent calls (probability),0.2,3,0.961783,0.040984
+Uni+Bi,7,swap adjacent calls (probability),0.2,4,0.955414,0.040984
+Uni+Bi,7,swap adjacent calls (probability),0.2,5,0.974522,0.04918
+Uni+Bi,42,swap adjacent calls (probability),0.2,1,0.980892,0.040984
+Uni+Bi,42,swap adjacent calls (probability),0.2,2,0.980892,0.057377
+Uni+Bi,42,swap adjacent calls (probability),0.2,3,0.980892,0.065574
+Uni+Bi,42,swap adjacent calls (probability),0.2,4,0.980892,0.04918
+Uni+Bi,42,swap adjacent calls (probability),0.2,5,0.980892,0.04918
+Uni+Bi,72,swap adjacent calls (probability),0.2,1,0.980892,0.04918
+Uni+Bi,72,swap adjacent calls (probability),0.2,2,0.974522,0.065574
+Uni+Bi,72,swap adjacent calls (probability),0.2,3,0.974522,0.07377
+Uni+Bi,72,swap adjacent calls (probability),0.2,4,0.980892,0.057377
+Uni+Bi,72,swap adjacent calls (probability),0.2,5,0.980892,0.032787
+Uni+Bi,123,swap adjacent calls (probability),0.2,1,0.974522,0.016393
+Uni+Bi,123,swap adjacent calls (probability),0.2,2,0.974522,0.032787
+Uni+Bi,123,swap adjacent calls (probability),0.2,3,0.968153,0.040984
+Uni+Bi,123,swap adjacent calls (probability),0.2,4,0.974522,0.016393
+Uni+Bi,123,swap adjacent calls (probability),0.2,5,0.974522,0.02459
+Uni+Bi,2024,swap adjacent calls (probability),0.2,1,0.980892,0.032787
+Uni+Bi,2024,swap adjacent calls (probability),0.2,2,0.974522,0.040984
+Uni+Bi,2024,swap adjacent calls (probability),0.2,3,0.974522,0.040984
+Uni+Bi,2024,swap adjacent calls (probability),0.2,4,0.974522,0.04918
+Uni+Bi,2024,swap adjacent calls (probability),0.2,5,0.980892,0.02459
+Uni+Bi,7,swap adjacent calls (probability),0.4,1,0.974522,0.081967
+Uni+Bi,7,swap adjacent calls (probability),0.4,2,0.974522,0.04918
+Uni+Bi,7,swap adjacent calls (probability),0.4,3,0.955414,0.098361
+Uni+Bi,7,swap adjacent calls (probability),0.4,4,0.968153,0.081967
+Uni+Bi,7,swap adjacent calls (probability),0.4,5,0.980892,0.081967
+Uni+Bi,42,swap adjacent calls (probability),0.4,1,0.980892,0.122951
+Uni+Bi,42,swap adjacent calls (probability),0.4,2,0.980892,0.081967
+Uni+Bi,42,swap adjacent calls (probability),0.4,3,0.980892,0.122951
+Uni+Bi,42,swap adjacent calls (probability),0.4,4,0.974522,0.081967
+Uni+Bi,42,swap adjacent calls (probability),0.4,5,0.980892,0.090164
+Uni+Bi,72,swap adjacent calls (probability),0.4,1,0.974522,0.122951
+Uni+Bi,72,swap adjacent calls (probability),0.4,2,0.980892,0.090164
+Uni+Bi,72,swap adjacent calls (probability),0.4,3,0.974522,0.07377
+Uni+Bi,72,swap adjacent calls (probability),0.4,4,0.974522,0.090164
+Uni+Bi,72,swap adjacent calls (probability),0.4,5,0.980892,0.065574
+Uni+Bi,123,swap adjacent calls (probability),0.4,1,0.974522,0.065574
+Uni+Bi,123,swap adjacent calls (probability),0.4,2,0.974522,0.081967
+Uni+Bi,123,swap adjacent calls (probability),0.4,3,0.968153,0.057377
+Uni+Bi,123,swap adjacent calls (probability),0.4,4,0.974522,0.040984
+Uni+Bi,123,swap adjacent calls (probability),0.4,5,0.987261,0.07377
+Uni+Bi,2024,swap adjacent calls (probability),0.4,1,0.980892,0.07377
+Uni+Bi,2024,swap adjacent calls (probability),0.4,2,0.980892,0.04918
+Uni+Bi,2024,swap adjacent calls (probability),0.4,3,0.974522,0.057377
+Uni+Bi,2024,swap adjacent calls (probability),0.4,4,0.980892,0.04918
+Uni+Bi,2024,swap adjacent calls (probability),0.4,5,0.974522,0.040984
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),10.0,1,0.770701,0.0
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),10.0,2,0.802548,0.016393
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),10.0,3,0.796178,0.0
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),10.0,4,0.783439,0.008197
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),10.0,5,0.77707,0.0
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),10.0,1,0.815287,0.0
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),10.0,2,0.802548,0.016393
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),10.0,3,0.840764,0.008197
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),10.0,4,0.847134,0.0
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),10.0,5,0.789809,0.0
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),10.0,1,0.847134,0.016393
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),10.0,2,0.847134,0.016393
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),10.0,3,0.834395,0.008197
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),10.0,4,0.847134,0.02459
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),10.0,5,0.815287,0.008197
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),10.0,1,0.910828,0.008197
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),10.0,2,0.910828,0.02459
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),10.0,3,0.910828,0.016393
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),10.0,4,0.942675,0.016393
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),10.0,5,0.929936,0.016393
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),10.0,1,0.949045,0.008197
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),10.0,2,0.936306,0.02459
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),10.0,3,0.961783,0.016393
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),10.0,4,0.955414,0.02459
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),10.0,5,0.942675,0.016393
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),25.0,1,0.66879,0.0
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),25.0,2,0.66242,0.008197
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),25.0,3,0.675159,0.0
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),25.0,4,0.630573,0.008197
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),25.0,5,0.649682,0.0
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),25.0,1,0.700637,0.0
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),25.0,2,0.694268,0.0
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),25.0,3,0.656051,0.008197
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),25.0,4,0.675159,0.008197
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),25.0,5,0.66879,0.0
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),25.0,1,0.726115,0.0
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),25.0,2,0.700637,0.016393
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),25.0,3,0.719745,0.008197
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),25.0,4,0.687898,0.0
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),25.0,5,0.675159,0.008197
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),25.0,1,0.840764,0.0
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),25.0,2,0.853503,0.016393
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),25.0,3,0.847134,0.008197
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),25.0,4,0.828025,0.02459
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),25.0,5,0.847134,0.016393
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),25.0,1,0.872611,0.016393
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),25.0,2,0.872611,0.008197
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),25.0,3,0.828025,0.016393
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),25.0,4,0.847134,0.008197
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),25.0,5,0.853503,0.02459
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),50.0,1,0.22293,0.0
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),50.0,2,0.229299,0.0
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),50.0,3,0.261146,0.0
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),50.0,4,0.242038,0.0
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),50.0,5,0.216561,0.0
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),50.0,1,0.375796,0.0
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),50.0,2,0.33758,0.0
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),50.0,3,0.363057,0.016393
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),50.0,4,0.343949,0.0
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),50.0,5,0.33121,0.0
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),50.0,1,0.375796,0.0
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),50.0,2,0.343949,0.0
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),50.0,3,0.343949,0.016393
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),50.0,4,0.369427,0.008197
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),50.0,5,0.375796,0.0
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),50.0,1,0.566879,0.016393
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),50.0,2,0.528662,0.0
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),50.0,3,0.535032,0.016393
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),50.0,4,0.579618,0.008197
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),50.0,5,0.535032,0.008197
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),50.0,1,0.528662,0.016393
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),50.0,2,0.471338,0.0
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),50.0,3,0.515924,0.016393
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),50.0,4,0.509554,0.008197
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),50.0,5,0.541401,0.008197
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),100.0,1,0.006369,0.0
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),100.0,2,0.012739,0.0
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),100.0,3,0.025478,0.008197
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),100.0,4,0.057325,0.0
+Uni+Bi+Tri (full),7,benign preamble (distinct calls),100.0,5,0.019108,0.008197
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),100.0,1,0.031847,0.008197
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),100.0,2,0.050955,0.008197
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),100.0,3,0.044586,0.0
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),100.0,4,0.050955,0.008197
+Uni+Bi+Tri (full),42,benign preamble (distinct calls),100.0,5,0.031847,0.0
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),100.0,1,0.057325,0.0
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),100.0,2,0.044586,0.0
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),100.0,3,0.038217,0.008197
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),100.0,4,0.070064,0.0
+Uni+Bi+Tri (full),72,benign preamble (distinct calls),100.0,5,0.031847,0.0
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),100.0,1,0.171975,0.008197
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),100.0,2,0.210191,0.0
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),100.0,3,0.140127,0.040984
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),100.0,4,0.210191,0.016393
+Uni+Bi+Tri (full),123,benign preamble (distinct calls),100.0,5,0.159236,0.016393
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),100.0,1,0.076433,0.0
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),100.0,2,0.127389,0.008197
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),100.0,3,0.089172,0.016393
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),100.0,4,0.127389,0.016393
+Uni+Bi+Tri (full),2024,benign preamble (distinct calls),100.0,5,0.089172,0.016393
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.1,1,0.968153,0.016393
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.1,2,0.961783,0.016393
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.1,3,0.955414,0.032787
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.1,4,0.968153,0.032787
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.1,5,0.968153,0.032787
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.1,1,0.968153,0.016393
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.1,2,0.974522,0.02459
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.1,3,0.980892,0.032787
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.1,4,0.974522,0.02459
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.1,5,0.961783,0.032787
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.1,1,0.974522,0.032787
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.1,2,0.974522,0.040984
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.1,3,0.974522,0.02459
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.1,4,0.974522,0.032787
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.1,5,0.968153,0.032787
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.1,1,0.980892,0.040984
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.1,2,0.980892,0.032787
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.1,3,0.980892,0.032787
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.1,4,0.980892,0.032787
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.1,5,0.980892,0.02459
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.1,1,0.974522,0.032787
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.1,2,0.980892,0.032787
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.1,3,0.974522,0.032787
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.1,4,0.974522,0.040984
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.1,5,0.974522,0.032787
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.25,1,0.929936,0.0
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.25,2,0.949045,0.0
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.25,3,0.929936,0.008197
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.25,4,0.929936,0.016393
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.25,5,0.955414,0.016393
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.25,1,0.974522,0.008197
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.25,2,0.968153,0.016393
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.25,3,0.968153,0.016393
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.25,4,0.968153,0.032787
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.25,5,0.968153,0.02459
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.25,1,0.968153,0.008197
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.25,2,0.968153,0.016393
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.25,3,0.968153,0.016393
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.25,4,0.974522,0.02459
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.25,5,0.974522,0.02459
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.25,1,0.987261,0.016393
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.25,2,0.980892,0.032787
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.25,3,0.980892,0.032787
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.25,4,0.980892,0.032787
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.25,5,0.968153,0.040984
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.25,1,0.974522,0.02459
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.25,2,0.974522,0.04918
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.25,3,0.974522,0.02459
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.25,4,0.980892,0.032787
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.25,5,0.974522,0.04918
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.5,1,0.904459,0.008197
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.5,2,0.898089,0.016393
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.5,3,0.929936,0.008197
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.5,4,0.910828,0.016393
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),0.5,5,0.910828,0.0
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.5,1,0.949045,0.02459
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.5,2,0.955414,0.016393
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.5,3,0.968153,0.02459
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.5,4,0.955414,0.016393
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),0.5,5,0.955414,0.008197
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.5,1,0.949045,0.0
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.5,2,0.936306,0.016393
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.5,3,0.961783,0.032787
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.5,4,0.949045,0.02459
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),0.5,5,0.942675,0.016393
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.5,1,0.980892,0.016393
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.5,2,0.955414,0.04918
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.5,3,0.961783,0.040984
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.5,4,0.974522,0.040984
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),0.5,5,0.961783,0.02459
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.5,1,0.974522,0.040984
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.5,2,0.980892,0.02459
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.5,3,0.961783,0.04918
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.5,4,0.974522,0.057377
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),0.5,5,0.974522,0.02459
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),1.0,1,0.834395,0.008197
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),1.0,2,0.815287,0.0
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),1.0,3,0.834395,0.008197
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),1.0,4,0.847134,0.0
+Uni+Bi+Tri (full),7,insert benign filler (fraction of length),1.0,5,0.872611,0.008197
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),1.0,1,0.89172,0.0
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),1.0,2,0.878981,0.008197
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),1.0,3,0.910828,0.02459
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),1.0,4,0.88535,0.008197
+Uni+Bi+Tri (full),42,insert benign filler (fraction of length),1.0,5,0.904459,0.02459
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),1.0,1,0.89172,0.016393
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),1.0,2,0.866242,0.016393
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),1.0,3,0.88535,0.040984
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),1.0,4,0.88535,0.008197
+Uni+Bi+Tri (full),72,insert benign filler (fraction of length),1.0,5,0.89172,0.016393
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),1.0,1,0.942675,0.02459
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),1.0,2,0.936306,0.040984
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),1.0,3,0.955414,0.065574
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),1.0,4,0.955414,0.02459
+Uni+Bi+Tri (full),123,insert benign filler (fraction of length),1.0,5,0.923567,0.02459
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),1.0,1,0.949045,0.040984
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),1.0,2,0.955414,0.032787
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),1.0,3,0.955414,0.040984
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),1.0,4,0.961783,0.02459
+Uni+Bi+Tri (full),2024,insert benign filler (fraction of length),1.0,5,0.968153,0.040984
+Uni+Bi+Tri (full),7,none,0.0,1,0.961783,0.02459
+Uni+Bi+Tri (full),42,none,0.0,1,0.968153,0.016393
+Uni+Bi+Tri (full),72,none,0.0,1,0.968153,0.032787
+Uni+Bi+Tri (full),123,none,0.0,1,0.980892,0.02459
+Uni+Bi+Tri (full),2024,none,0.0,1,0.974522,0.02459
+Uni+Bi+Tri (full),7,repeat calls and segments (probability),0.5,1,0.961783,0.02459
+Uni+Bi+Tri (full),7,repeat calls and segments (probability),0.5,2,0.961783,0.02459
+Uni+Bi+Tri (full),7,repeat calls and segments (probability),0.5,3,0.961783,0.02459
+Uni+Bi+Tri (full),7,repeat calls and segments (probability),0.5,4,0.961783,0.02459
+Uni+Bi+Tri (full),7,repeat calls and segments (probability),0.5,5,0.961783,0.02459
+Uni+Bi+Tri (full),42,repeat calls and segments (probability),0.5,1,0.968153,0.016393
+Uni+Bi+Tri (full),42,repeat calls and segments (probability),0.5,2,0.968153,0.016393
+Uni+Bi+Tri (full),42,repeat calls and segments (probability),0.5,3,0.968153,0.016393
+Uni+Bi+Tri (full),42,repeat calls and segments (probability),0.5,4,0.968153,0.016393
+Uni+Bi+Tri (full),42,repeat calls and segments (probability),0.5,5,0.968153,0.016393
+Uni+Bi+Tri (full),72,repeat calls and segments (probability),0.5,1,0.968153,0.032787
+Uni+Bi+Tri (full),72,repeat calls and segments (probability),0.5,2,0.968153,0.032787
+Uni+Bi+Tri (full),72,repeat calls and segments (probability),0.5,3,0.968153,0.032787
+Uni+Bi+Tri (full),72,repeat calls and segments (probability),0.5,4,0.968153,0.032787
+Uni+Bi+Tri (full),72,repeat calls and segments (probability),0.5,5,0.968153,0.032787
+Uni+Bi+Tri (full),123,repeat calls and segments (probability),0.5,1,0.980892,0.02459
+Uni+Bi+Tri (full),123,repeat calls and segments (probability),0.5,2,0.980892,0.02459
+Uni+Bi+Tri (full),123,repeat calls and segments (probability),0.5,3,0.980892,0.02459
+Uni+Bi+Tri (full),123,repeat calls and segments (probability),0.5,4,0.980892,0.02459
+Uni+Bi+Tri (full),123,repeat calls and segments (probability),0.5,5,0.980892,0.02459
+Uni+Bi+Tri (full),2024,repeat calls and segments (probability),0.5,1,0.974522,0.02459
+Uni+Bi+Tri (full),2024,repeat calls and segments (probability),0.5,2,0.974522,0.02459
+Uni+Bi+Tri (full),2024,repeat calls and segments (probability),0.5,3,0.974522,0.02459
+Uni+Bi+Tri (full),2024,repeat calls and segments (probability),0.5,4,0.974522,0.02459
+Uni+Bi+Tri (full),2024,repeat calls and segments (probability),0.5,5,0.974522,0.02459
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),0.25,1,0.923567,0.016393
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),0.25,2,0.955414,0.016393
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),0.25,3,0.942675,0.016393
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),0.25,4,0.929936,0.016393
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),0.25,5,0.949045,0.016393
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),0.25,1,0.955414,0.016393
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),0.25,2,0.968153,0.008197
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),0.25,3,0.955414,0.016393
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),0.25,4,0.955414,0.016393
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),0.25,5,0.968153,0.032787
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),0.25,1,0.961783,0.032787
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),0.25,2,0.974522,0.02459
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),0.25,3,0.968153,0.016393
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),0.25,4,0.968153,0.02459
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),0.25,5,0.974522,0.032787
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),0.25,1,0.968153,0.040984
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),0.25,2,0.980892,0.032787
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),0.25,3,0.968153,0.040984
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),0.25,4,0.961783,0.032787
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),0.25,5,0.980892,0.040984
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),0.25,1,0.974522,0.032787
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),0.25,2,0.974522,0.032787
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),0.25,3,0.974522,0.040984
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),0.25,4,0.974522,0.032787
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),0.25,5,0.980892,0.032787
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),0.5,1,0.866242,0.016393
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),0.5,2,0.878981,0.016393
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),0.5,3,0.878981,0.016393
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),0.5,4,0.88535,0.016393
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),0.5,5,0.872611,0.008197
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),0.5,1,0.917197,0.02459
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),0.5,2,0.923567,0.016393
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),0.5,3,0.923567,0.016393
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),0.5,4,0.955414,0.008197
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),0.5,5,0.923567,0.016393
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),0.5,1,0.929936,0.040984
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),0.5,2,0.936306,0.02459
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),0.5,3,0.936306,0.008197
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),0.5,4,0.968153,0.032787
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),0.5,5,0.923567,0.008197
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),0.5,1,0.942675,0.040984
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),0.5,2,0.949045,0.04918
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),0.5,3,0.949045,0.040984
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),0.5,4,0.961783,0.032787
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),0.5,5,0.949045,0.040984
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),0.5,1,0.942675,0.040984
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),0.5,2,0.961783,0.04918
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),0.5,3,0.955414,0.032787
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),0.5,4,0.974522,0.032787
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),0.5,5,0.955414,0.02459
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),1.0,1,0.522293,0.02459
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),1.0,2,0.541401,0.02459
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),1.0,3,0.535032,0.02459
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),1.0,4,0.547771,0.02459
+Uni+Bi+Tri (full),7,substitute equivalent variant (probability),1.0,5,0.547771,0.032787
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),1.0,1,0.726115,0.016393
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),1.0,2,0.719745,0.016393
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),1.0,3,0.726115,0.016393
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),1.0,4,0.726115,0.016393
+Uni+Bi+Tri (full),42,substitute equivalent variant (probability),1.0,5,0.726115,0.016393
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),1.0,1,0.770701,0.016393
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),1.0,2,0.770701,0.016393
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),1.0,3,0.770701,0.016393
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),1.0,4,0.770701,0.016393
+Uni+Bi+Tri (full),72,substitute equivalent variant (probability),1.0,5,0.770701,0.016393
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),1.0,1,0.840764,0.04918
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),1.0,2,0.815287,0.04918
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),1.0,3,0.847134,0.04918
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),1.0,4,0.840764,0.057377
+Uni+Bi+Tri (full),123,substitute equivalent variant (probability),1.0,5,0.847134,0.04918
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),1.0,1,0.783439,0.032787
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),1.0,2,0.783439,0.032787
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),1.0,3,0.783439,0.040984
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),1.0,4,0.77707,0.032787
+Uni+Bi+Tri (full),2024,substitute equivalent variant (probability),1.0,5,0.77707,0.032787
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.05,1,0.955414,0.016393
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.05,2,0.955414,0.02459
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.05,3,0.980892,0.02459
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.05,4,0.974522,0.016393
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.05,5,0.955414,0.02459
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.05,1,0.974522,0.016393
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.05,2,0.974522,0.02459
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.05,3,0.974522,0.02459
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.05,4,0.974522,0.016393
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.05,5,0.961783,0.032787
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.05,1,0.974522,0.02459
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.05,2,0.974522,0.040984
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.05,3,0.974522,0.040984
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.05,4,0.980892,0.02459
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.05,5,0.980892,0.032787
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.05,1,0.980892,0.02459
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.05,2,0.980892,0.032787
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.05,3,0.980892,0.032787
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.05,4,0.980892,0.02459
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.05,5,0.980892,0.04918
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.05,1,0.980892,0.032787
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.05,2,0.974522,0.032787
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.05,3,0.980892,0.040984
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.05,4,0.980892,0.032787
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.05,5,0.974522,0.04918
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.1,1,0.974522,0.016393
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.1,2,0.974522,0.02459
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.1,3,0.961783,0.008197
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.1,4,0.955414,0.032787
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.1,5,0.949045,0.008197
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.1,1,0.968153,0.016393
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.1,2,0.974522,0.016393
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.1,3,0.974522,0.016393
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.1,4,0.974522,0.032787
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.1,5,0.968153,0.016393
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.1,1,0.974522,0.02459
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.1,2,0.974522,0.02459
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.1,3,0.974522,0.032787
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.1,4,0.980892,0.040984
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.1,5,0.980892,0.02459
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.1,1,0.980892,0.032787
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.1,2,0.974522,0.032787
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.1,3,0.980892,0.032787
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.1,4,0.980892,0.04918
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.1,5,0.980892,0.032787
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.1,1,0.974522,0.032787
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.1,2,0.974522,0.04918
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.1,3,0.974522,0.032787
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.1,4,0.980892,0.040984
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.1,5,0.974522,0.040984
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.2,1,0.942675,0.008197
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.2,2,0.961783,0.016393
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.2,3,0.955414,0.016393
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.2,4,0.961783,0.008197
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.2,5,0.949045,0.0
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.2,1,0.961783,0.008197
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.2,2,0.974522,0.016393
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.2,3,0.968153,0.032787
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.2,4,0.974522,0.016393
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.2,5,0.961783,0.008197
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.2,1,0.961783,0.032787
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.2,2,0.968153,0.032787
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.2,3,0.974522,0.032787
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.2,4,0.961783,0.02459
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.2,5,0.968153,0.008197
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.2,1,0.980892,0.032787
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.2,2,0.968153,0.040984
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.2,3,0.974522,0.032787
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.2,4,0.980892,0.016393
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.2,5,0.980892,0.032787
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.2,1,0.968153,0.040984
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.2,2,0.974522,0.04918
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.2,3,0.974522,0.040984
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.2,4,0.980892,0.016393
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.2,5,0.974522,0.02459
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.4,1,0.936306,0.016393
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.4,2,0.923567,0.016393
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.4,3,0.929936,0.016393
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.4,4,0.929936,0.016393
+Uni+Bi+Tri (full),7,swap adjacent calls (probability),0.4,5,0.949045,0.016393
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.4,1,0.961783,0.057377
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.4,2,0.968153,0.04918
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.4,3,0.974522,0.057377
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.4,4,0.968153,0.032787
+Uni+Bi+Tri (full),42,swap adjacent calls (probability),0.4,5,0.961783,0.02459
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.4,1,0.961783,0.07377
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.4,2,0.955414,0.032787
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.4,3,0.961783,0.032787
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.4,4,0.968153,0.032787
+Uni+Bi+Tri (full),72,swap adjacent calls (probability),0.4,5,0.968153,0.02459
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.4,1,0.974522,0.081967
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.4,2,0.980892,0.040984
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.4,3,0.974522,0.065574
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.4,4,0.974522,0.032787
+Uni+Bi+Tri (full),123,swap adjacent calls (probability),0.4,5,0.987261,0.032787
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.4,1,0.974522,0.07377
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.4,2,0.980892,0.04918
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.4,3,0.974522,0.04918
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.4,4,0.974522,0.07377
+Uni+Bi+Tri (full),2024,swap adjacent calls (probability),0.4,5,0.974522,0.040984

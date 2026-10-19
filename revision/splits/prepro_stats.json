@@ -1,0 +1,49 @@
+{
+  "malbehav_rows": 2543,
+  "malbehav_unique_sequences": 1594,
+  "malbehav_sequences_with_both_labels": 1,
+  "split_rows": {
+    "train": 2053,
+    "test": 279,
+    "val": 211
+  },
+  "split_benign_share": {
+    "train": 0.5007306380905991,
+    "val": 0.5971563981042654,
+    "test": 0.43727598566308246
+  },
+  "vocab": {
+    "uni": 290,
+    "bi": 6943,
+    "tri": 16891,
+    "total_incl_special": 24129
+  },
+  "bigrams_seen_once_in_train": 2740,
+  "trigrams_seen_once_in_train": 9531,
+  "malbehav_length": {
+    "mean": 43.20330318521432,
+    "median": 37.0,
+    "max": 153
+  },
+  "malapi_traces": 7107,
+  "malapi_unique_groups": 5761,
+  "malapi_raw_length": {
+    "mean": 19647.267342057126,
+    "median": 633.0,
+    "max": 1764421
+  },
+  "malapi_reduced_length": {
+    "mean": 42.231884057971016,
+    "median": 40.0,
+    "max": 146
+  },
+  "malapi_consecutive_repeat_share_raw": 0.6669911501167025,
+  "malapi_unigram_oov_share": 0.0007229911175376988,
+  "malapi_coverage_pct": {
+    "uni": 99.92770088824624,
+    "bi": 38.83768150562219,
+    "tri": 1.2139419714053887
+  },
+  "oov_handling": "dropped",
+  "malapi_max_input_positions": 193
+}

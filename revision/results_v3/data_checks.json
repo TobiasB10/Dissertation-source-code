@@ -1,0 +1,81 @@
+{
+ "table4_malbehav": {
+  "mean": 43.2,
+  "median": 37.0,
+  "p95": 101.0,
+  "max": 153,
+  "adjacent_repeats": 0.0
+ },
+ "table4_malapi_raw": {
+  "mean": 19647.3,
+  "median": 633.0,
+  "p95": 59461.29999999996,
+  "max": 1764421,
+  "adjacent_repeats": 0.6669911501167025
+ },
+ "table10_malapi_raw_coverage": {
+  "1": 0.999805805397371,
+  "2": 0.15209540238853184,
+  "3": 0.0026013595650703917
+ },
+ "malapi_raw_uncovered_bigrams_that_repeat": 0.7866346662060855,
+ "table4_malapi_reduced": {
+  "mean": 42.2,
+  "median": 40.0,
+  "p95": 82.0,
+  "max": 146,
+  "adjacent_repeats": 0.0
+ },
+ "table10_malapi_harmonised_coverage": {
+  "1": 0.9992770088824623,
+  "2": 0.38837681505622196,
+  "3": 0.012139419714053887
+ },
+ "table10_malbehav_test_coverage": {
+  "1": 1.0,
+  "2": 0.9666806546370121,
+  "3": 0.8681677552423513
+ },
+ "table10_median_tokens_train": {
+  "uni": 36.0,
+  "bi": 35.0,
+  "tri": 34.0
+ },
+ "table10_median_tokens_malapi": {
+  "uni": 40.0,
+  "bi": 16.0,
+  "tri": 0.0
+ },
+ "table10_malapi_traces_with_no_trigram": 0.6099620092866188,
+ "neardup_within_two_edits": {
+  "rows": 95,
+  "malicious": 77,
+  "identical": 0
+ },
+ "neardup_f1": {
+  "uni": {
+   "all": 0.971928530863299,
+   "without_near_duplicates": 0.9512555106518474
+  },
+  "uni_bi": {
+   "all": 0.9778010215763461,
+   "without_near_duplicates": 0.960856676933999
+  },
+  "uni_bi_tri": {
+   "all": 0.9762358889289882,
+   "without_near_duplicates": 0.958849737940044
+  },
+  "bilstm": {
+   "all": 0.9638918904740066,
+   "without_near_duplicates": 0.9351828114281939
+  },
+  "lr_count_uni": {
+   "all": 0.9808917197452229,
+   "without_near_duplicates": 0.968944099378882
+  },
+  "lr_count_all": {
+   "all": 0.9808917197452229,
+   "without_near_duplicates": 0.968944099378882
+  }
+ }
+}
