@@ -38,9 +38,10 @@ The GPU runs used the CUDA 12.1 build of PyTorch listed in `requirements.txt`.
 - `results_v3/results_v3.jsonl`: one line per run (model, seed, budget and every metric). `results_v3.csv` and `stats_v3.md` are written by `--mode stats` (paired tests, Holm correction, confidence intervals, effect sizes).
 - `results_v3/preds/`: per-sample predictions (0 benign, 1 malicious) for every run. `s2_<model>_<seed>.npy` is on all 7,107 MAL-API-2019 traces and `s2src_...` on the MalbehavD-V1 test split. `s3_<model>_<seed>_<n>.npy` is on the MAL-API-2019 test pool and `s3src_...` on the MalbehavD-V1 test split. The logistic regressions have no seed in S1 and S2.
 - `results_v3/exchanged/s3_<seed>_<n>.json`: the `row_id`s of the MAL-API-2019 traces exchanged into training at each seed and budget.
-- `results_extra/`: the extra checks and the external test (S4), with predictions on the external corpus in `preds/external_<model>_<seed>_<n>.npy` (seed -1 is the deterministic logistic regression with no target data).
-- `results_perturb/`: perturbation results, the list of perturbed conditions and predictions per model and seed.
-- `supplementary/`: Supplementary Tables S1 to S4 of the paper.
+- `results_extra/`: the extra checks and the external test (S5 in the revised paper; S4 in earlier versions), with predictions on the external corpus in `preds/external_<model>_<seed>_<n>.npy` (seed -1 is the deterministic logistic regression with no target data).
+- `results_perturb/`: the first, five-seed perturbation results, the list of perturbed conditions and predictions per model and seed.
+- `results_perturb20/`: the 20-seed perturbation results, the n-gram recall analysis and the mapping check from `round2_v4.py` (see below). The predictions and scores are in `preds.zip`: `<model>_<seed>.npy` (0 benign, 1 malicious) and `<model>_<seed>_score.npy` (malicious-class probability), in the row order of `conditions.csv`.
+- `supplementary/`: Supplementary Tables S1 to S5 of the paper.
 
 ## Splits
 
@@ -49,4 +50,15 @@ The GPU runs used the CUDA 12.1 build of PyTorch listed in `requirements.txt`.
 - `splits/oliveira_groups.csv`: the sequence group of every row of the external corpus, in the row order of the published CSV.
 - `splits/vocab_v2.json`: the unigram, bigram and trigram vocabulary built on the MalbehavD-V1 training split, and `prepro_stats.json` the statistics printed by `prepro_v2.py`.
 
-The seeds are 72, 42, 123, 7, 2024 and the integers 1 to 16 other than 7. The perturbation tests use the first five.
+The seeds are 72, 42, 123, 7, 2024 and the integers 1 to 16 other than 7. The five-seed perturbation run in `results_perturb` used the first five; `results_perturb20` uses all 20.
+
+## Second-round revision (November 2026)
+
+`round2_v4.py` runs the analyses added in response to the second review:
+
+- `--mode perturb`: the perturbation scenario (S6) over all 20 seeds, with the same perturbed inputs as `perturb_v3.py`, a deletion-only control for the benign preamble, and malicious-class scores for the AUC and balanced accuracy.
+- `--mode ngram`: zero-shot (S2) recall against each trace's share of known n-grams, from the saved predictions in `results_v3/preds`.
+- `--mode mapping`: a rank-correlation check of the external corpus's integer-to-name mapping, using `api_list_page_order.txt`.
+- `--mode summary`: tables and the pre-registered paired comparisons, written to `results_perturb20/round2_v4.md`.
+
+The results are in `results_perturb20` (unzip `preds.zip` there before rerunning the summary). Its first five seeds reproduce `results_perturb` prediction for prediction. In the revised paper, scenario S4 is corpus separability and S5 the external corpus; files from earlier runs may use the previous order.

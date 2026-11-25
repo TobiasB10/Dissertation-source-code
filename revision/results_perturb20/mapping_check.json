@@ -1,0 +1,29 @@
+{
+ "n_shared_names": 290,
+ "named": {
+  "page order (used)": {
+   "goodware": 0.8892992234593848,
+   "malware": 0.8102277839073727
+  },
+  "alphabetical": {
+   "goodware": 0.03172606128424092,
+   "malware": 0.03713574009514204
+  },
+  "alphabetical, case-insensitive": {
+   "goodware": 0.001908708832762676,
+   "malware": -0.026403029692279686
+  },
+  "page order reversed": {
+   "goodware": -0.03793297082652732,
+   "malware": 0.025803163167528148
+  }
+ },
+ "random_mean": {
+  "goodware": -0.009212798060543276,
+  "malware": 0.018741608607664433
+ },
+ "random_max": {
+  "goodware": 0.0996881256827293,
+  "malware": 0.13331813410633897
+ }
+}
